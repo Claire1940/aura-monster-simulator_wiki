@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "aura": "Aura",
+    "gems": "Gems",
+    "monsters": "Monsters",
+    "stairs": "Stairs",
+    "sins": "Sins",
+    "roblox": "Roblox"
+  }
+}

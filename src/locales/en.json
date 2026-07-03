@@ -10,7 +10,16 @@
       "twitterDescription": "Aura Monster Simulator Wiki covers active codes, aura upgrades, Gems, rebirth, controls, stairs, hazards, titles, and beginner tips for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "aura": "Aura",
+    "gems": "Gems",
+    "monsters": "Monsters",
+    "stairs": "Stairs",
+    "sins": "Sins",
+    "roblox": "Roblox"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -485,125 +494,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
+    "codes": {
+      "title": "Aura Monster Simulator Codes",
+      "metaTitle": "Aura Monster Simulator Codes - Free Gems & Aura Boosts",
+      "metaDescription": "Get free Gems, Aura Boosts, and rewards with active Aura Monster Simulator codes. Updated regularly with verified working codes and redemption steps.",
+      "description": "Latest working Aura Monster Simulator codes for free Gems and Aura Boosts. Updated regularly with verified codes and step-by-step redemption.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What Are Aura Monster Simulator Codes?",
+      "whatIsDescription": "Aura Monster Simulator codes are promotional strings released by the developer that grant free in-game rewards such as Gems and timed 2x Aura Boosts. Codes are case-sensitive and redeemed in the Codes menu to accelerate early progression, Aura Shop rolls, and climbing upgrades.",
+      "why": "Why Redeem Aura Monster Simulator Codes?",
+      "whySteps": {
+        "step1Title": "Free Gems for Aura Shop rolls",
+        "step1Description": "Redeemed codes grant Gems you spend in the Aura Shop to roll for powerful aura effects that boost your climbing power.",
+        "step2Title": "Timed 2x Aura Boosts",
+        "step2Description": "Many codes grant temporary Aura generation boosts that double your Aura gain and speed up climbing skill upgrades.",
+        "step3Title": "Faster early-game progression",
+        "step3Description": "Free rewards from codes let you skip early grinding and reach higher floors sooner without spending Robux."
+      },
+      "featured": "Featured Codes",
+      "all": "All Aura Monster Simulator Codes"
+    },
+    "guide": {
       "title": "Aura Monster Simulator Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced climbing, aura farming, and rebirth strategies.",
-      "metaTitle": "Aura Monster Simulator Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Aura Monster Simulator guides covering beginner tips, aura farming, climbing upgrades, rebirth, and expert tactics for mastering the endless staircase.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, climbing strategies, aura farming, and the Aura Shop system. Learn everything from first steps to advanced climbing techniques.",
-      "why": "Why read guides?",
+      "metaTitle": "Aura Monster Simulator Guides - Beginner, Progression & Tips",
+      "metaDescription": "Complete Aura Monster Simulator guides covering beginner progression, climbing upgrades, rebirth strategy, and tips for Roblox players.",
+      "description": "Comprehensive Aura Monster Simulator guides for beginners and advanced players, covering progression, climbing upgrades, rebirth, and tips.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What Is in the Aura Monster Simulator Guide?",
+      "whatIsDescription": "The Aura Monster Simulator guide covers the core climbing loop, early-game goals, upgrade priority, rebirth strategy, and movement controls across PC, controller, and mobile, walking you through the first hour of play up to long-term mastery of V1.75.",
+      "why": "Why Read the Aura Monster Simulator Guide?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Aura, climbing, and rebirth loop and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to climb faster and push into higher floors",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for aura farming, upgrades, and high-floor survival"
+        "step1Title": "Clear progression path",
+        "step1Description": "Learn the optimal order to spend Aura on climbing skills and Gems on Aura Shop rolls for efficient long-term growth.",
+        "step2Title": "Avoid common beginner mistakes",
+        "step2Description": "Understand when to rebirth, which upgrades to skip, and how to manage resources without wasting your early advantage.",
+        "step3Title": "Master every platform",
+        "step3Description": "Get the official PC, controller, and mobile control schemes so you can climb hazards cleanly on any device."
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Featured Guides",
+      "all": "All Aura Monster Simulator Guides"
     },
-    "crafting": {
+    "aura": {
       "title": "Aura Monster Simulator Auras",
-      "description": "Master aura effects, Aura Shop rolls, and the best aura setups for faster climbing and higher-floor pushes.",
-      "metaTitle": "Aura Monster Simulator Auras - Aura Shop Rolls & Effects",
-      "metaDescription": "Master Aura Monster Simulator auras and the Aura Shop system. Learn how to roll aura effects with Gems and choose the best setups for climbing.",
-      "categoryLabel": "AURAS & AURA SHOP",
-      "whatIs": "What are Auras?",
-      "whatIsDescription": "Auras are effects rolled in the Aura Shop using Gems. Each aura shapes your climb efficiency and build direction, so rolling and testing the right effect is a core part of progression.",
-      "why": "Why roll auras?",
+      "metaTitle": "Aura Monster Simulator Auras - How to Get & Best Aura Guide",
+      "metaDescription": "Complete Aura Monster Simulator aura guide: how to get and farm Aura, reach max aura, aura effects, and the best aura rolls to target.",
+      "description": "Master Aura in Aura Monster Simulator: how to get and farm Aura, reach max aura, understand aura effects, and roll for the best aura.",
+      "categoryLabel": "AURAS",
+      "whatIs": "What Is Aura in Aura Monster Simulator?",
+      "whatIsDescription": "Aura is the core resource in Aura Monster Simulator, generated by climbing the endless staircase and spent on climbing skill upgrades. Aura effects and Aura Shop rolls provide multipliers that accelerate your climb and unlock new milestones.",
+      "why": "Why Focus on Aura?",
       "whySteps": {
-        "step1Title": "Boost Climb Efficiency",
-        "step1Description": "Roll aura effects that speed up Aura gain and climbing speed",
-        "step2Title": "Test Before Rerolling",
-        "step2Description": "Run a full climb cycle with one effect before spending more Gems",
-        "step3Title": "Match Your Build",
-        "step3Description": "Pick aura effects that support your current upgrade and rebirth stage"
+        "step1Title": "Fuel your climbing upgrades",
+        "step1Description": "Aura is spent on climbing skills that increase speed, auto-climb, and efficiency so you can push to higher floors.",
+        "step2Title": "Roll powerful aura effects",
+        "step2Description": "Gems in the Aura Shop let you roll aura effects and rarities that multiply Aura generation and climbing power.",
+        "step3Title": "Reach max aura faster",
+        "step3Description": "Efficient farming routes and upgrade priority help you hit max aura thresholds and unlock titles and rebirths."
       },
-      "featured": "Featured & Essential",
-      "all": "All Aura Guides"
+      "featured": "Featured Aura Guides",
+      "all": "All Aura Monster Simulator Aura Guides"
     },
-    "items": {
-      "title": "Aura Monster Simulator Items",
-      "description": "Detailed guides covering Gems, Aura Boosts, codes, and resources with usage tips and spending priorities.",
-      "metaTitle": "Aura Monster Simulator Items - Gems, Boosts & Resources Guide",
-      "metaDescription": "Complete resource guide for Aura Monster Simulator including Gems, Aura Boosts, codes, and how to spend every resource effectively.",
-      "categoryLabel": "ITEMS & RESOURCES",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for Gems, Aura Boosts, codes, and climbing resources. Learn how to earn, redeem, and spend every resource for maximum climbing progress.",
-      "why": "Why check item guides?",
+    "gems": {
+      "title": "Aura Monster Simulator Gems",
+      "metaTitle": "Aura Monster Simulator Gems - Free Gems & Aura Shop Guide",
+      "metaDescription": "Learn how to get free Gems in Aura Monster Simulator, farm efficiently, and spend Gems wisely in the Aura Shop for the best aura rolls.",
+      "description": "Complete Aura Monster Simulator Gems guide: how to get free Gems, the best farming routes, and how to spend Gems in the Aura Shop for aura rolls.",
+      "categoryLabel": "GEMS",
+      "whatIs": "What Are Gems in Aura Monster Simulator?",
+      "whatIsDescription": "Gems are the premium currency in Aura Monster Simulator, spent in the Aura Shop to roll for powerful aura effects and rarities. You earn Gems from codes, climbing milestones, and farming routes, then convert them into aura rolls that define your build.",
+      "why": "Why Manage Gems Carefully?",
       "whySteps": {
-        "step1Title": "Redeem Codes",
-        "step1Description": "Claim free Gems and timed 2x Aura Boosts before each climb session",
-        "step2Title": "Spend Gems Wisely",
-        "step2Description": "Roll Aura Shop effects that match your progression stage",
-        "step3Title": "Time Your Boosts",
-        "step3Description": "Use timed 2x Aura Boosts during uninterrupted climbing sessions"
+        "step1Title": "Free Gems from codes and farming",
+        "step1Description": "Active codes and dedicated farming routes provide a steady stream of free Gems without spending Robux.",
+        "step2Title": "Spend on high-value aura rolls",
+        "step2Description": "The Aura Shop turns Gems into aura effects and rarities; prioritize rolls that multiply Aura generation and climbing power.",
+        "step3Title": "Plan long-term Gem economy",
+        "step3Description": "A clear Gem spending plan keeps your Aura Shop rolls aligned with your build instead of draining resources randomly."
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Featured Gem Guides",
+      "all": "All Aura Monster Simulator Gem Guides"
     },
-    "biomes": {
-      "title": "Aura Monster Simulator Floors",
-      "description": "Explore staircase floors, hazard patterns, danger zones, and survival tips for climbing higher.",
-      "metaTitle": "Aura Monster Simulator Floors - Stairs, Hazards & Survival",
-      "metaDescription": "Explore Aura Monster Simulator floors including staircase hazards, danger zones, and survival tips for pushing toward your highest floor.",
-      "categoryLabel": "FLOORS & HAZARDS",
-      "whatIs": "What are Floors?",
-      "whatIsDescription": "Guides to staircase floors, environmental hazards, danger patterns, and survival strategies. Learn what to expect and how to prepare as the climb becomes more dangerous.",
-      "why": "Why study floors?",
+    "monsters": {
+      "title": "Aura Monster Simulator Monsters",
+      "metaTitle": "Aura Monster Simulator Monsters - Best Monsters & Tier List",
+      "metaDescription": "Find the best Aura Monster Simulator monsters, unlock guide, upgrade routes, and a full monster list with rankings and auras.",
+      "description": "Complete Aura Monster Simulator monsters guide: the best monsters, how to unlock them, upgrade routes, and a full monster list with rankings.",
+      "categoryLabel": "MONSTERS",
+      "whatIs": "What Are Monsters in Aura Monster Simulator?",
+      "whatIsDescription": "Monsters are rollable forms and companions in Aura Monster Simulator that provide passive bonuses to Aura generation, climbing speed, and resource gain. You unlock monsters through progression and upgrade them to amplify your build as you climb the endless staircase.",
+      "why": "Why Invest in Monsters?",
       "whySteps": {
-        "step1Title": "Read Hazard Patterns",
-        "step1Description": "Recognize danger segments before they cost you progress",
-        "step2Title": "Prepare Upgrades",
-        "step2Description": "Spend Aura on climbing upgrades before high-floor attempts",
-        "step3Title": "Plan Your Push",
-        "step3Description": "Set controls, aura effects, and boost timing before record attempts"
+        "step1Title": "Best monsters for your build",
+        "step1Description": "Use the monster tier list to pick the highest-value monsters that match your Aura and climbing strategy.",
+        "step2Title": "Unlock monsters efficiently",
+        "step2Description": "Follow the unlock route to add new monsters without wasting resources on low-value rolls.",
+        "step3Title": "Upgrade for permanent boosts",
+        "step3Description": "Monster upgrades deliver lasting multipliers that scale with your climb and rebirth progression."
       },
-      "featured": "Featured & Essential",
-      "all": "All Floor Guides"
+      "featured": "Featured Monster Guides",
+      "all": "All Aura Monster Simulator Monster Guides"
     },
-    "building": {
-      "title": "Aura Monster Simulator Upgrades",
-      "description": "Master climbing skill upgrades, upgrade priority, and the best order to spend Aura for faster climbing.",
-      "metaTitle": "Aura Monster Simulator Upgrades - Climbing Skills & Priority",
-      "metaDescription": "Master Aura Monster Simulator upgrades with climbing skill priority, Aura spending order, and strategies for climbing faster and higher.",
-      "categoryLabel": "UPGRADES & PROGRESSION",
-      "whatIs": "What are Upgrades?",
-      "whatIsDescription": "Guides to climbing skill upgrades, upgrade priority, and Aura spending strategy. Learn which upgrades to buy first and how to scale your climb efficiently.",
-      "why": "Why plan upgrades?",
+    "stairs": {
+      "title": "Aura Monster Simulator Stairs",
+      "metaTitle": "Aura Monster Simulator Stairs - Climbing & Tower Guide",
+      "metaDescription": "Climb the endless staircase and infinite tower in Aura Monster Simulator with the best progression strategy, upgrade route, and farming tips.",
+      "description": "Conquer the endless staircase and infinite tower in Aura Monster Simulator with the best climbing strategy, upgrade route, and farming tips.",
+      "categoryLabel": "STAIRS",
+      "whatIs": "What Are the Stairs in Aura Monster Simulator?",
+      "whatIsDescription": "The endless staircase and infinite tower form the core gameplay loop of Aura Monster Simulator. You climb higher floors to generate Aura, dodge hazards, and unlock upgrades, with each floor rewarding progress and pushing your rebirth potential.",
+      "why": "Why Master the Stairs?",
       "whySteps": {
-        "step1Title": "Climb Faster",
-        "step1Description": "Buy speed and climbing upgrades that smooth out early movement",
-        "step2Title": "Prioritize Spending",
-        "step2Description": "Spend Aura on practical upgrades instead of hoarding resources",
-        "step3Title": "Scale for Rebirth",
-        "step3Description": "Build upgrades that stay valuable across rebirth cycles"
+        "step1Title": "Generate Aura as you climb",
+        "step1Description": "Every floor you climb produces Aura, the primary resource for all climbing skill upgrades.",
+        "step2Title": "Dodge hazards at high floors",
+        "step2Description": "Higher floors introduce tougher hazards; learning movement and zone-based controls keeps your runs alive.",
+        "step3Title": "Push infinite tower milestones",
+        "step3Description": "Reaching new tower milestones unlocks titles, aura effects, and rebirth thresholds that permanently boost your power."
       },
-      "featured": "Featured & Essential",
-      "all": "All Upgrade Guides"
+      "featured": "Featured Stairs Guides",
+      "all": "All Aura Monster Simulator Stairs Guides"
     },
-    "support": {
-      "title": "Aura Monster Simulator Controls & Support",
-      "description": "Controls for PC, controller, and mobile, plus gameplay tips and common questions for Aura Monster Simulator.",
-      "metaTitle": "Aura Monster Simulator Controls & Support - Inputs and Help",
-      "metaDescription": "Get controls for Aura Monster Simulator on PC, controller, and mobile, plus gameplay tips and answers to common climbing questions.",
-      "categoryLabel": "CONTROLS & SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Guides covering PC, controller, and mobile controls, gameplay tips, and common questions. Learn the inputs you need to start climbing and push higher with confidence.",
-      "why": "Why check controls?",
+    "sins": {
+      "title": "Aura Monster Simulator Sins",
+      "metaTitle": "Aura Monster Simulator Sins - Best Sin & Effects Guide",
+      "metaDescription": "Learn what each Aura Monster Simulator Sin does, find the best Sin for your build, and reroll for the right Sin effects.",
+      "description": "Everything about Aura Monster Simulator Sins: what each Sin does, the best Sin for your build, and how to reroll Sin effects.",
+      "categoryLabel": "SINS",
+      "whatIs": "What Are Aura Monster Simulator Sins?",
+      "whatIsDescription": "Sins are a specialization system in Aura Monster Simulator that grant passive bonuses to Aura generation, climbing speed, or resource gain. Each Sin has unique effects, and you can reroll to switch Sin as your build and progression stage change.",
+      "why": "Why Choose the Right Sin?",
       "whySteps": {
-        "step1Title": "Learn the Inputs",
-        "step1Description": "Master forward, left, right, and auto controls for your platform",
-        "step2Title": "Climb Smoother",
-        "step2Description": "Use the right inputs so movement feels automatic on high floors",
-        "step3Title": "Avoid Mistakes",
-        "step3Description": "Set up controls before record attempts to reduce costly errors"
+        "step1Title": "Match Sin to your build",
+        "step1Description": "Different Sins suit different playstyles; some boost Aura farming, others speed up climbing or enhance Gem gain.",
+        "step2Title": "Optimize progression speed",
+        "step2Description": "Picking the best Sin for your current stage multiplies your efficiency and shortens the grind to higher floors.",
+        "step3Title": "Reroll as you advance",
+        "step3Description": "As your build evolves, rerolling Sins keeps your bonuses aligned with your strategy instead of locking you in."
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Featured Sin Guides",
+      "all": "All Aura Monster Simulator Sin Guides"
+    },
+    "roblox": {
+      "title": "Aura Monster Simulator on Roblox",
+      "metaTitle": "Aura Monster Simulator Roblox - Codes, Guide & Platform Tips",
+      "metaDescription": "Everything about Aura Monster Simulator on Roblox: platform codes, the full Roblox guide, controls, and progression tips for every device.",
+      "description": "The complete Aura Monster Simulator Roblox hub: platform codes, the full Roblox progression guide, controls, and tips for every device.",
+      "categoryLabel": "ROBLOX",
+      "whatIs": "What Is Aura Monster Simulator on Roblox?",
+      "whatIsDescription": "Aura Monster Simulator is a Roblox obby simulator where you climb an endless staircase, collect Aura, roll powerful aura effects with Gems, and rebirth for permanent upgrades. This hub collects Roblox-specific codes, controls, and guides for PC, controller, and mobile players.",
+      "why": "Why Use the Roblox Hub?",
+      "whySteps": {
+        "step1Title": "Platform-specific codes",
+        "step1Description": "Find Roblox codes and redemption steps tailored to Aura Monster Simulator players across all devices.",
+        "step2Title": "One progression guide for every device",
+        "step2Description": "Get the full Roblox progression route covering climbing, Aura, Gems, and rebirth with PC, controller, and mobile controls.",
+        "step3Title": "Stay current with updates",
+        "step3Description": "Track the latest Roblox updates, new codes, and version changes (V1.75) so your strategy never falls behind."
+      },
+      "featured": "Featured Roblox Guides",
+      "all": "All Aura Monster Simulator Roblox Guides"
     }
   }
 }

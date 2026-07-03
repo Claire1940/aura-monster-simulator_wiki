@@ -1,1 +1,698 @@
-{}
+{
+  "en": {
+    "aura": [
+      {
+        "slug": "aura-monster-simulator-aura-effects",
+        "file": "aura-monster-simulator-aura-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-farming",
+        "file": "aura-monster-simulator-aura-farming"
+      },
+      {
+        "slug": "aura-monster-simulator-aura",
+        "file": "aura-monster-simulator-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-best-aura",
+        "file": "aura-monster-simulator-best-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-aura",
+        "file": "aura-monster-simulator-how-to-get-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-max-aura",
+        "file": "aura-monster-simulator-max-aura"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "aura-monster-simulator-codes",
+        "file": "aura-monster-simulator-codes"
+      }
+    ],
+    "gems": [
+      {
+        "slug": "aura-monster-simulator-aura-rolls",
+        "file": "aura-monster-simulator-aura-rolls"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-shop",
+        "file": "aura-monster-simulator-aura-shop"
+      },
+      {
+        "slug": "aura-monster-simulator-free-gems",
+        "file": "aura-monster-simulator-free-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-gems",
+        "file": "aura-monster-simulator-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-gems",
+        "file": "aura-monster-simulator-how-to-get-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "aura-monster-simulator-beginner-guide",
+        "file": "aura-monster-simulator-beginner-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-guide",
+        "file": "aura-monster-simulator-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-play",
+        "file": "aura-monster-simulator-how-to-play"
+      },
+      {
+        "slug": "aura-monster-simulator-progression-guide",
+        "file": "aura-monster-simulator-progression-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-starter-guide",
+        "file": "aura-monster-simulator-starter-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-tips",
+        "file": "aura-monster-simulator-tips"
+      },
+      {
+        "slug": "aura-monster-simulator-update-guide",
+        "file": "aura-monster-simulator-update-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-v1-75-guide",
+        "file": "aura-monster-simulator-v1.75-guide"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "aura-monster-simulator-best-monsters",
+        "file": "aura-monster-simulator-best-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-unlock-monsters",
+        "file": "aura-monster-simulator-how-to-unlock-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-list",
+        "file": "aura-monster-simulator-monster-list"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-upgrades",
+        "file": "aura-monster-simulator-monster-upgrades"
+      },
+      {
+        "slug": "aura-monster-simulator-monsters",
+        "file": "aura-monster-simulator-monsters"
+      }
+    ],
+    "roblox": [
+      {
+        "slug": "aura-monster-simulator-gif",
+        "file": "aura-monster-simulator-gif"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-codes",
+        "file": "aura-monster-simulator-roblox-codes"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-guide",
+        "file": "aura-monster-simulator-roblox-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox",
+        "file": "aura-monster-simulator-roblox"
+      }
+    ],
+    "sins": [
+      {
+        "slug": "aura-monster-simulator-best-sin",
+        "file": "aura-monster-simulator-best-sin"
+      },
+      {
+        "slug": "aura-monster-simulator-envy",
+        "file": "aura-monster-simulator-envy"
+      },
+      {
+        "slug": "aura-monster-simulator-sin-effects",
+        "file": "aura-monster-simulator-sin-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-sins",
+        "file": "aura-monster-simulator-sins"
+      },
+      {
+        "slug": "aura-monster-simulator-what-does-each-sin-do",
+        "file": "aura-monster-simulator-what-does-each-sin-do"
+      }
+    ],
+    "stairs": [
+      {
+        "slug": "aura-monster-simulator-climbing-stairs",
+        "file": "aura-monster-simulator-climbing-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-endless-stairs",
+        "file": "aura-monster-simulator-endless-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-infinite-tower",
+        "file": "aura-monster-simulator-infinite-tower"
+      },
+      {
+        "slug": "aura-monster-simulator-stairs",
+        "file": "aura-monster-simulator-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-tower",
+        "file": "aura-monster-simulator-tower"
+      }
+    ]
+  },
+  "es": {
+    "aura": [
+      {
+        "slug": "aura-monster-simulator-aura-effects",
+        "file": "aura-monster-simulator-aura-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-farming",
+        "file": "aura-monster-simulator-aura-farming"
+      },
+      {
+        "slug": "aura-monster-simulator-aura",
+        "file": "aura-monster-simulator-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-best-aura",
+        "file": "aura-monster-simulator-best-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-aura",
+        "file": "aura-monster-simulator-how-to-get-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-max-aura",
+        "file": "aura-monster-simulator-max-aura"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "aura-monster-simulator-codes",
+        "file": "aura-monster-simulator-codes"
+      }
+    ],
+    "gems": [
+      {
+        "slug": "aura-monster-simulator-aura-rolls",
+        "file": "aura-monster-simulator-aura-rolls"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-shop",
+        "file": "aura-monster-simulator-aura-shop"
+      },
+      {
+        "slug": "aura-monster-simulator-free-gems",
+        "file": "aura-monster-simulator-free-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-gems",
+        "file": "aura-monster-simulator-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-gems",
+        "file": "aura-monster-simulator-how-to-get-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "aura-monster-simulator-beginner-guide",
+        "file": "aura-monster-simulator-beginner-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-guide",
+        "file": "aura-monster-simulator-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-play",
+        "file": "aura-monster-simulator-how-to-play"
+      },
+      {
+        "slug": "aura-monster-simulator-progression-guide",
+        "file": "aura-monster-simulator-progression-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-starter-guide",
+        "file": "aura-monster-simulator-starter-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-tips",
+        "file": "aura-monster-simulator-tips"
+      },
+      {
+        "slug": "aura-monster-simulator-update-guide",
+        "file": "aura-monster-simulator-update-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-v1-75-guide",
+        "file": "aura-monster-simulator-v1.75-guide"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "aura-monster-simulator-best-monsters",
+        "file": "aura-monster-simulator-best-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-unlock-monsters",
+        "file": "aura-monster-simulator-how-to-unlock-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-list",
+        "file": "aura-monster-simulator-monster-list"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-upgrades",
+        "file": "aura-monster-simulator-monster-upgrades"
+      },
+      {
+        "slug": "aura-monster-simulator-monsters",
+        "file": "aura-monster-simulator-monsters"
+      }
+    ],
+    "roblox": [
+      {
+        "slug": "aura-monster-simulator-gif",
+        "file": "aura-monster-simulator-gif"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-codes",
+        "file": "aura-monster-simulator-roblox-codes"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-guide",
+        "file": "aura-monster-simulator-roblox-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox",
+        "file": "aura-monster-simulator-roblox"
+      }
+    ],
+    "sins": [
+      {
+        "slug": "aura-monster-simulator-best-sin",
+        "file": "aura-monster-simulator-best-sin"
+      },
+      {
+        "slug": "aura-monster-simulator-envy",
+        "file": "aura-monster-simulator-envy"
+      },
+      {
+        "slug": "aura-monster-simulator-sin-effects",
+        "file": "aura-monster-simulator-sin-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-sins",
+        "file": "aura-monster-simulator-sins"
+      },
+      {
+        "slug": "aura-monster-simulator-what-does-each-sin-do",
+        "file": "aura-monster-simulator-what-does-each-sin-do"
+      }
+    ],
+    "stairs": [
+      {
+        "slug": "aura-monster-simulator-climbing-stairs",
+        "file": "aura-monster-simulator-climbing-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-endless-stairs",
+        "file": "aura-monster-simulator-endless-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-infinite-tower",
+        "file": "aura-monster-simulator-infinite-tower"
+      },
+      {
+        "slug": "aura-monster-simulator-stairs",
+        "file": "aura-monster-simulator-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-tower",
+        "file": "aura-monster-simulator-tower"
+      }
+    ]
+  },
+  "pt": {
+    "aura": [
+      {
+        "slug": "aura-monster-simulator-aura-effects",
+        "file": "aura-monster-simulator-aura-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-farming",
+        "file": "aura-monster-simulator-aura-farming"
+      },
+      {
+        "slug": "aura-monster-simulator-aura",
+        "file": "aura-monster-simulator-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-best-aura",
+        "file": "aura-monster-simulator-best-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-aura",
+        "file": "aura-monster-simulator-how-to-get-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-max-aura",
+        "file": "aura-monster-simulator-max-aura"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "aura-monster-simulator-codes",
+        "file": "aura-monster-simulator-codes"
+      }
+    ],
+    "gems": [
+      {
+        "slug": "aura-monster-simulator-aura-rolls",
+        "file": "aura-monster-simulator-aura-rolls"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-shop",
+        "file": "aura-monster-simulator-aura-shop"
+      },
+      {
+        "slug": "aura-monster-simulator-free-gems",
+        "file": "aura-monster-simulator-free-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-gems",
+        "file": "aura-monster-simulator-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-gems",
+        "file": "aura-monster-simulator-how-to-get-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "aura-monster-simulator-beginner-guide",
+        "file": "aura-monster-simulator-beginner-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-guide",
+        "file": "aura-monster-simulator-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-play",
+        "file": "aura-monster-simulator-how-to-play"
+      },
+      {
+        "slug": "aura-monster-simulator-progression-guide",
+        "file": "aura-monster-simulator-progression-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-starter-guide",
+        "file": "aura-monster-simulator-starter-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-tips",
+        "file": "aura-monster-simulator-tips"
+      },
+      {
+        "slug": "aura-monster-simulator-update-guide",
+        "file": "aura-monster-simulator-update-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-v1-75-guide",
+        "file": "aura-monster-simulator-v1.75-guide"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "aura-monster-simulator-best-monsters",
+        "file": "aura-monster-simulator-best-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-unlock-monsters",
+        "file": "aura-monster-simulator-how-to-unlock-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-list",
+        "file": "aura-monster-simulator-monster-list"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-upgrades",
+        "file": "aura-monster-simulator-monster-upgrades"
+      },
+      {
+        "slug": "aura-monster-simulator-monsters",
+        "file": "aura-monster-simulator-monsters"
+      }
+    ],
+    "roblox": [
+      {
+        "slug": "aura-monster-simulator-gif",
+        "file": "aura-monster-simulator-gif"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-codes",
+        "file": "aura-monster-simulator-roblox-codes"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-guide",
+        "file": "aura-monster-simulator-roblox-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox",
+        "file": "aura-monster-simulator-roblox"
+      }
+    ],
+    "sins": [
+      {
+        "slug": "aura-monster-simulator-best-sin",
+        "file": "aura-monster-simulator-best-sin"
+      },
+      {
+        "slug": "aura-monster-simulator-envy",
+        "file": "aura-monster-simulator-envy"
+      },
+      {
+        "slug": "aura-monster-simulator-sin-effects",
+        "file": "aura-monster-simulator-sin-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-sins",
+        "file": "aura-monster-simulator-sins"
+      },
+      {
+        "slug": "aura-monster-simulator-what-does-each-sin-do",
+        "file": "aura-monster-simulator-what-does-each-sin-do"
+      }
+    ],
+    "stairs": [
+      {
+        "slug": "aura-monster-simulator-climbing-stairs",
+        "file": "aura-monster-simulator-climbing-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-endless-stairs",
+        "file": "aura-monster-simulator-endless-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-infinite-tower",
+        "file": "aura-monster-simulator-infinite-tower"
+      },
+      {
+        "slug": "aura-monster-simulator-stairs",
+        "file": "aura-monster-simulator-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-tower",
+        "file": "aura-monster-simulator-tower"
+      }
+    ]
+  },
+  "ru": {
+    "aura": [
+      {
+        "slug": "aura-monster-simulator-aura-effects",
+        "file": "aura-monster-simulator-aura-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-farming",
+        "file": "aura-monster-simulator-aura-farming"
+      },
+      {
+        "slug": "aura-monster-simulator-aura",
+        "file": "aura-monster-simulator-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-best-aura",
+        "file": "aura-monster-simulator-best-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-aura",
+        "file": "aura-monster-simulator-how-to-get-aura"
+      },
+      {
+        "slug": "aura-monster-simulator-max-aura",
+        "file": "aura-monster-simulator-max-aura"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "aura-monster-simulator-codes",
+        "file": "aura-monster-simulator-codes"
+      }
+    ],
+    "gems": [
+      {
+        "slug": "aura-monster-simulator-aura-rolls",
+        "file": "aura-monster-simulator-aura-rolls"
+      },
+      {
+        "slug": "aura-monster-simulator-aura-shop",
+        "file": "aura-monster-simulator-aura-shop"
+      },
+      {
+        "slug": "aura-monster-simulator-free-gems",
+        "file": "aura-monster-simulator-free-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-gems",
+        "file": "aura-monster-simulator-gems"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-get-gems",
+        "file": "aura-monster-simulator-how-to-get-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "aura-monster-simulator-beginner-guide",
+        "file": "aura-monster-simulator-beginner-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-guide",
+        "file": "aura-monster-simulator-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-play",
+        "file": "aura-monster-simulator-how-to-play"
+      },
+      {
+        "slug": "aura-monster-simulator-progression-guide",
+        "file": "aura-monster-simulator-progression-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-starter-guide",
+        "file": "aura-monster-simulator-starter-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-tips",
+        "file": "aura-monster-simulator-tips"
+      },
+      {
+        "slug": "aura-monster-simulator-update-guide",
+        "file": "aura-monster-simulator-update-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-v1-75-guide",
+        "file": "aura-monster-simulator-v1.75-guide"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "aura-monster-simulator-best-monsters",
+        "file": "aura-monster-simulator-best-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-how-to-unlock-monsters",
+        "file": "aura-monster-simulator-how-to-unlock-monsters"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-list",
+        "file": "aura-monster-simulator-monster-list"
+      },
+      {
+        "slug": "aura-monster-simulator-monster-upgrades",
+        "file": "aura-monster-simulator-monster-upgrades"
+      },
+      {
+        "slug": "aura-monster-simulator-monsters",
+        "file": "aura-monster-simulator-monsters"
+      }
+    ],
+    "roblox": [
+      {
+        "slug": "aura-monster-simulator-gif",
+        "file": "aura-monster-simulator-gif"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-codes",
+        "file": "aura-monster-simulator-roblox-codes"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox-guide",
+        "file": "aura-monster-simulator-roblox-guide"
+      },
+      {
+        "slug": "aura-monster-simulator-roblox",
+        "file": "aura-monster-simulator-roblox"
+      }
+    ],
+    "sins": [
+      {
+        "slug": "aura-monster-simulator-best-sin",
+        "file": "aura-monster-simulator-best-sin"
+      },
+      {
+        "slug": "aura-monster-simulator-envy",
+        "file": "aura-monster-simulator-envy"
+      },
+      {
+        "slug": "aura-monster-simulator-sin-effects",
+        "file": "aura-monster-simulator-sin-effects"
+      },
+      {
+        "slug": "aura-monster-simulator-sins",
+        "file": "aura-monster-simulator-sins"
+      },
+      {
+        "slug": "aura-monster-simulator-what-does-each-sin-do",
+        "file": "aura-monster-simulator-what-does-each-sin-do"
+      }
+    ],
+    "stairs": [
+      {
+        "slug": "aura-monster-simulator-climbing-stairs",
+        "file": "aura-monster-simulator-climbing-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-endless-stairs",
+        "file": "aura-monster-simulator-endless-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-infinite-tower",
+        "file": "aura-monster-simulator-infinite-tower"
+      },
+      {
+        "slug": "aura-monster-simulator-stairs",
+        "file": "aura-monster-simulator-stairs"
+      },
+      {
+        "slug": "aura-monster-simulator-tower",
+        "file": "aura-monster-simulator-tower"
+      }
+    ]
+  }
+}
