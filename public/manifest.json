@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Aura Monster Simulator Wiki - Codes, Auras & Rebirth",
+  "short_name": "Aura Monster",
+  "description": "Aura Monster Simulator Wiki covers active codes, aura upgrades, Gems, rebirth, controls, stairs, hazards, titles, and beginner tips for Roblox players.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#20C878",
+  "background_color": "#0a1410",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
