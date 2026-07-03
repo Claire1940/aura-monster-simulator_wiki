@@ -29,17 +29,17 @@
     "lightMode": "Modo claro",
     "darkMode": "Modo oscuro",
     "notFound": "Página no encontrada",
-    "notFoundDescription": "La página que estás buscando no existe.",
+    "notFoundDescription": "La página que buscas no existe.",
     "backToHome": "Volver al inicio",
     "relatedArticles": "Artículos relacionados",
     "readMore": "Leer más",
     "articlesComingSoon": "Artículos próximamente"
   },
   "hero": {
-    "badge": "Simulador de escalada de Aura sin fin",
+    "badge": "Simulador de escalada de aura infinito",
     "title": "Wiki de Aura Monster Simulator",
-    "description": "Sube una escalera sin fin, colecciona Aura, esquiva peligros, usa Gems para tiradas de aura, desbloquea títulos, haz rebirth y mejora tus habilidades de escalada en este simulador de obby de Roblox.",
-    "getFreeCodesCTA": "Obtén códigos gratis",
+    "description": "Sube una escalera infinita, recoge Aura, esquiva peligros, usa Gems para tiradas de aura, desbloquea títulos, haz rebirth y mejora tus habilidades de escalada en este simulador obby de Roblox.",
+    "getFreeCodesCTA": "Consigue códigos gratis",
     "playOnRobloxCTA": "Jugar en Roblox",
     "stats": {
       "stat1": {
@@ -62,12 +62,12 @@
   },
   "gameFeature": {
     "title": "Jugabilidad de Aura Monster Simulator",
-    "description": "Sube una escalera infinita, recolecta Aura, gástala en mejoras de escalada, obtén efectos de aura en la Tienda de Aura con Gems y avanza hacia pisos más altos en este simulador de obby de Roblox."
+    "description": "Sube una escalera infinita, recolecta Aura, gástala en mejoras de escalada, realiza tiradas de efectos de aura en la Aura Shop con Gems y avanza hacia los pisos más altos en este simulador de obby de Roblox."
   },
   "tools": {
     "title": "Aura Monster Simulator",
     "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para escalar, recolectar Aura, canjear códigos y avanzar a pisos más altos en Aura Monster Simulator",
+    "subtitle": "Todo lo que necesitas para escalar, recolectar Aura, canjear códigos y alcanzar pisos superiores en Aura Monster Simulator",
     "cards": [
       {
         "icon": "Ticket",
@@ -77,7 +77,7 @@
       {
         "icon": "Compass",
         "title": "Guía para principiantes de Aura Monster Simulator",
-        "description": "Bucle principal, objetivos iniciales y ruta de inicio"
+        "description": "Ciclo principal de juego, objetivos iniciales y ruta de inicio"
       },
       {
         "icon": "Gamepad2",
@@ -91,18 +91,18 @@
       },
       {
         "icon": "Gem",
-        "title": "Gems y Tienda de Aura de Aura Monster Simulator",
+        "title": "Gems y Aura Shop de Aura Monster Simulator",
         "description": "Fuentes de Gems, tiradas y plan de gasto"
       },
       {
         "icon": "Repeat",
         "title": "Guía de Rebirth de Aura Monster Simulator",
-        "description": "Momento para hacer Rebirth, preparación y recuperación"
+        "description": "Momento para el Rebirth, preparación y recuperación"
       },
       {
         "icon": "Mountain",
         "title": "Supervivencia en pisos altos de Aura Monster Simulator",
-        "description": "Preparación para peligros y lista de verificación para pisos altos"
+        "description": "Preparación ante peligros y lista de verificación para pisos altos"
       },
       {
         "icon": "Bell",
@@ -115,97 +115,97 @@
     "auraCodes": {
       "eyebrow": "Recompensas gratuitas",
       "title": "Códigos de Aura Monster Simulator",
-      "subtitle": "Canjea códigos activos de Aura Monster Simulator para obtener Gems gratis y recompensas temporales de Aura Boost x2. Los códigos distinguen entre mayúsculas y minúsculas, así que introduce cada uno exactamente como se muestra.",
-      "intro": "Usa el ícono de Códigos en el lado izquierdo de la pantalla, pega el código en el cuadro de texto y presiona Enter para reclamar la recompensa. Las Gems se usan para las tiradas de la Tienda de Aura, mientras que los Aura Boosts aceleran el progreso de escalada durante el farmeo de la escalera infinita.",
+      "subtitle": "Canjea códigos activos de Aura Monster Simulator para obtener Gems gratis y recompensas temporales de 2x Aura Boost. Los códigos distinguen entre mayúsculas y minúsculas, así que ingrésalos exactamente como se muestran.",
+      "intro": "Usa el ícono de Códigos en el lado izquierdo de la pantalla, pega el código en el cuadro de texto y presiona Enter para reclamar la recompensa. Las Gems se usan para las tiradas de la Aura Shop, mientras que los Aura Boosts aceleran el progreso de escalada durante el trayecto por la escalera infinita.",
       "items": [
         {
           "code": "HAPPYBIRTHDAYDANIEL",
-          "reward": "250 Gems + Aura Boost x2 durante 2 horas",
+          "reward": "250 Gems + 2x Aura Boost por 2 horas",
           "status": "Activo",
           "type": "Gems y Aura Boost",
+          "note": "Distingue mayúsculas y minúsculas. Pégalo exactamente como se muestra."
+        },
+        {
+          "code": "AURAMONSTER\n---",
+          "reward": "2x Aura Boost por 1 hora",
+          "status": "Activo",
+          "type": "Aura Boost",
           "note": "Distingue entre mayúsculas y minúsculas. Pégalo exactamente como se muestra."
         },
         {
-          "code": "AURAMONSTER",
-          "reward": "---",
-          "status": "2x Aura Boost por 1 hora",
-          "type": "Activo",
-          "note": "Aura Boost"
+          "code": "LATE100LIKES",
+          "reward": "100 Gems",
+          "status": "Activo",
+          "type": "Gems",
+          "note": "Distingue entre mayúsculas y minúsculas. Pégalo exactamente como se muestra."
         },
         {
-          "code": "Sensible a mayúsculas y minúsculas. Pégalo exactamente como se muestra.",
-          "reward": "LATE100LIKES",
-          "status": "100 Gems",
-          "type": "Activo",
-          "note": "Gems"
-        },
-        {
-          "code": "Sensible a mayúsculas y minúsculas. Pégalo exactamente como se muestra.",
-          "reward": "500LIKES",
-          "status": "200 Gems",
-          "type": "Activo",
-          "note": "Gems"
+          "code": "500LIKES",
+          "reward": "200 Gems",
+          "status": "Activo",
+          "type": "Gems",
+          "note": "Distingue entre mayúsculas y minúsculas. Pégalo exactamente como se muestra."
         }
       ]
     },
     "auraBeginnerGuide": {
-      "eyebrow": "Sensible a mayúsculas y minúsculas. Pégalo exactamente como se muestra.",
-      "title": "Guía para principiantes",
-      "subtitle": "Guía para principiantes de Aura Monster Simulator",
-      "intro": "Aprende el ciclo básico: sube las escaleras, obtén Aura, gasta Aura en mejoras de escalada y avanza hacia pisos más difíciles. El juego se basa en repetir ese ciclo hasta que tu ascenso sea más fuerte.",
+      "eyebrow": "Guía para principiantes",
+      "title": "Guía para principiantes de Aura Monster Simulator",
+      "subtitle": "Aprende el ciclo básico: sube las escaleras, obtén Aura, gasta Aura en mejoras de escalada y avanza hacia pisos más difíciles. El juego se basa en repetir ese ciclo hasta que tu escalada sea más fuerte.",
+      "intro": "Aura Monster Simulator es una experiencia de Roblox de escaleras infinitas creada por Daniel's Birthday Gift!!! Los jugadores se convierten en un Aura Monster, escalan para obtener Aura, mejoran sus habilidades de escalada, evitan peligros crecientes, coleccionan títulos y siguen subiendo cada vez más alto.",
       "items": [
         {
           "step": 1,
-          "title": "Aura Monster Simulator es una experiencia de Roblox de escaleras infinitas creada por Daniel's Birthday Gift!!! Los jugadores se convierten en un Aura Monster, escalan para obtener Aura, mejoran sus habilidades de escalada, evitan peligros crecientes, coleccionan títulos y siguen subiendo más alto.",
-          "action": "Empieza a escalar",
-          "result": "Avanza por la escalera tan pronto como entres al juego."
+          "title": "Empieza a escalar",
+          "action": "Avanza por la escalera en cuanto entres al juego.",
+          "result": "Escalar es la forma principal de obtener Aura, lo cual impulsa tu progresión inicial."
         },
         {
           "step": 2,
-          "title": "Escalar es la forma principal de obtener Aura, lo cual impulsa tu progresión inicial.",
-          "action": "Recolecta Aura",
-          "result": "Sigue escalando para acumular Aura con el tiempo."
+          "title": "Recolecta Aura",
+          "action": "Sigue escalando para acumular Aura con el tiempo.",
+          "result": "El Aura es el recurso principal utilizado para mejorar las habilidades de escalada."
         },
         {
           "step": 3,
-          "title": "El Aura es el recurso principal utilizado para mejorar las habilidades de escalada.",
-          "action": "Gasta Aura en mejoras",
-          "result": "Usa el Aura ganada para mejorar tu habilidad de escalada en lugar de acumularla por demasiado tiempo."
+          "title": "Gasta Aura en mejoras",
+          "action": "Usa el Aura ganada para mejorar tu habilidad de escalada en lugar de guardarla por demasiado tiempo.",
+          "result": "Las mejoras te ayudan a escalar más rápido, más alto y de manera más eficiente."
         },
         {
           "step": 4,
-          "title": "Las mejoras te ayudan a escalar más rápido, más alto y de manera más eficiente.",
-          "action": "Vigila el peligro en los pisos superiores",
-          "result": "Mantente alerta mientras escalas, ya que el juego se vuelve más peligroso a medida que subes."
+          "title": "Cuidado con el peligro de los pisos superiores",
+          "action": "Mantente alerta mientras escalas, ya que el juego se vuelve más peligroso a medida que subes.",
+          "result": "Un movimiento más fluido te ayuda a mantener el progreso en lugar de perder tiempo por los obstáculos."
         },
         {
           "step": 5,
-          "title": "Un movimiento más preciso te ayuda a mantener el progreso en lugar de perder tiempo por los obstáculos.",
-          "action": "Usa las recompensas de códigos gratuitos pronto",
-          "result": "Canjea los códigos de Gems y Aura Boost antes de una sesión de escalada intensa."
+          "title": "Usa las recompensas de códigos gratuitos pronto",
+          "action": "Canjea códigos de Gems y Aura Boost antes de una sesión de escalada intensiva.",
+          "result": "Las Gems otorgan tiradas adicionales en la Aura Shop, y los 2x Aura Boosts ayudan a que la progresión inicial sea más rápida."
         },
         {
           "step": 6,
-          "title": "Las Gems otorgan tiradas adicionales en la Aura Shop, y los 2x Aura Boosts ayudan a que la progresión inicial sea más rápida.",
-          "action": "Tira en la Aura Shop",
-          "result": "Gasta Gems en la Aura Shop para tirar por efectos de aura."
+          "title": "Tira en la Aura Shop",
+          "action": "Gasta Gems en la Aura Shop para tirar por efectos de aura.",
+          "result": "Más tiradas te dan más opciones para mejorar tu configuración de escalada."
         },
         {
           "step": 7,
-          "title": "Más tiradas te dan más opciones para mejorar tu configuración de escalada.",
-          "action": "Repite el ciclo de progresión",
-          "result": "Escala, gana Aura, mejora, sube más alto y repite."
+          "title": "Repite el ciclo de progresión",
+          "action": "Escala, gana Aura, mejora, sube más alto y repite.",
+          "result": "La escalera no tiene fin, por lo que las mejoras constantes importan más que una sola escalada corta."
         }
       ]
     },
     "auraControlsGuide": {
-      "eyebrow": "La escalera no tiene fin, por lo que las mejoras constantes importan más que un solo ascenso corto.",
+      "eyebrow": "Controles",
       "title": "Guía de controles de Aura Monster Simulator",
-      "subtitle": "Usa los controles correctos de movimiento y escalada automática para PC, mando y móvil. Esto hace que la escalada sea sencilla en lugar de convertir el movimiento básico en una dificultad.",
-      "intro": "Aura Monster Simulator muestra controles separados para jugadores de teclado, mando y móvil. Los comandos de avanzar, izquierda, derecha y automático son los únicos controles que los jugadores necesitan para empezar a escalar correctamente.",
+      "subtitle": "Usa los controles de movimiento y escalado automático correctos para PC, mando y móvil. Esto hace que la escalada sea sencilla en lugar de convertir el movimiento básico en una dificultad.",
+      "intro": "Aura Monster Simulator detalla controles distintos para jugadores de teclado, mando y móvil. Los controles de avanzar, izquierda, derecha y automático son los únicos que los jugadores necesitan para empezar a escalar correctamente.",
       "columns": {
         "platform": "Plataforma",
-        "forward": "Adelante",
+        "forward": "Avanzar",
         "left": "Izquierda",
         "right": "Derecha",
         "auto": "Automático"
@@ -217,7 +217,7 @@
           "left": "A",
           "right": "D",
           "auto": "Espacio / MB1",
-          "note": "El movimiento con teclado utiliza las teclas estándar de estilo WASD."
+          "note": "El movimiento con teclado utiliza los controles estándar de estilo WASD."
         },
         {
           "platform": "Mando",
@@ -225,218 +225,218 @@
           "left": "L1",
           "right": "R1",
           "auto": "X",
-          "note": "El movimiento con mando utiliza los botones superiores para moverse a la izquierda y a la derecha."
+          "note": "El movimiento con mando utiliza los botones superiores para desplazarse a la izquierda y a la derecha."
         },
         {
           "platform": "Móvil",
           "forward": "Centro de la pantalla",
-          "left": "Izquierda de la pantalla",
-          "right": "Derecha de la pantalla",
-          "auto": "Salto",
-          "note": "Los controles móviles utilizan zonas de la pantalla para los comandos de dirección."
+          "left": "Lado izquierdo de la pantalla",
+          "right": "Lado derecho de la pantalla",
+          "auto": "Saltar",
+          "note": "Los controles móviles utilizan zonas de la pantalla para las direcciones."
         }
       ]
     },
     "auraFarmingAndUpgrades": {
-      "eyebrow": "Farmear Aura",
-      "title": "Guía de mejoras y farmeo de Aura en Aura Monster Simulator",
-      "subtitle": "Farmea Aura subiendo la escalera infinita y luego utilízala en mejoras de escalada para llegar más alto. Las recompensas de códigos aceleran la escalada inicial al otorgar Gems y potenciadores temporales de Aura x2.",
-      "intro": "La ruta principal de farmeo es directa: sube escaleras para obtener Aura, usa el Aura para mejorar las habilidades de escalada, canjea códigos para conseguir recursos adicionales y usa Gems para las tiradas de la Tienda de Aura. Los pisos más altos se vuelven más peligrosos, por lo que tanto las mejoras más fuertes como un movimiento más limpio son importantes.",
+      "eyebrow": "Farmeo de Aura",
+      "title": "Guía de farmeo de Aura y mejoras de Aura Monster Simulator",
+      "subtitle": "Farmea Aura subiendo la escalera infinita y luego gástala en mejoras de escalada para llegar más alto. Las recompensas de códigos aceleran la escalada inicial al otorgar Gems y periodos de potenciador de Aura x2 temporal.",
+      "intro": "La ruta de farmeo principal es directa: sube escaleras para obtener Aura, usa el Aura para mejorar tus habilidades de escalada, canjea códigos para conseguir recursos adicionales y usa Gems para las tiradas de la Tienda de Aura. Los pisos más altos se vuelven más peligrosos, por lo que tanto las mejoras más fuertes como un movimiento más preciso son importantes.",
       "items": [
         {
           "priority": 1,
           "name": "Canjea primero las recompensas de códigos",
           "resource": "Gems y potenciadores de Aura x2",
           "bestFor": "Nuevos jugadores y nuevas sesiones",
-          "howToUse": "Canjea los códigos activos antes de una escalada enfocada para que las recompensas de Gems y potenciadores de Aura empiecen a ayudarte de inmediato.",
-          "whyItMatters": "Las Gems gratuitas permiten realizar tiradas en la Tienda de Aura, mientras que las recompensas de potenciadores de Aura x2 aceleran la ganancia de Aura durante la escalada activa."
+          "howToUse": "Reclama los códigos activos antes de iniciar una sesión de escalada para que las recompensas de Gems y potenciadores de Aura empiecen a ayudarte de inmediato.",
+          "whyItMatters": "Las Gems gratuitas añaden tiradas en la Tienda de Aura, mientras que las recompensas de potenciador de Aura x2 aceleran la ganancia de Aura durante la escalada activa."
         },
         {
           "priority": 2,
-          "name": "Sigue escalando para conseguir Aura",
+          "name": "Sigue escalando para obtener Aura",
           "resource": "Aura",
           "bestFor": "Farmeo principal",
           "howToUse": "Quédate en la escalera y sigue subiendo para acumular Aura con el tiempo.",
-          "whyItMatters": "El Aura es el recurso utilizado para mejorar las habilidades de escalada, por lo que cada escalada alimenta el siguiente ciclo de mejoras."
+          "whyItMatters": "El Aura es el recurso que se utiliza para mejorar las habilidades de escalada, por lo que cada subida alimenta el siguiente ciclo de mejoras."
         },
         {
           "priority": 3,
           "name": "Mejorar habilidades de escalada",
           "resource": "Aura",
           "bestFor": "Progreso en el juego temprano y medio",
-          "howToUse": "Gasta Aura en mejoras de escalada en lugar de dejar sin usar los recursos iniciales.",
-          "whyItMatters": "Unas mejores habilidades de escalada te ayudan a subir más rápido, más alto y de manera más eficiente."
+          "howToUse": "Gasta Aura en mejoras de escalada en lugar de dejar que los recursos iniciales se queden sin usar.",
+          "whyItMatters": "Unas mejores habilidades de escalada te ayudan a subir más rápido, más alto y de forma más eficiente."
         },
         {
           "priority": 4,
-          "name": "Usa el tiempo de potenciador de Aura x2 de forma activa",
+          "name": "Usa el tiempo de potenciador de 2x Aura de forma activa",
           "resource": "Potenciador de Aura temporal",
-          "bestFor": "Sesiones de avance concentrado",
-          "howToUse": "Después de recibir un potenciador de Aura x2 temporal, sigue escalando en lugar de quedarte inactivo en los menús.",
+          "bestFor": "Sesiones de avance enfocadas",
+          "howToUse": "Tras recibir un potenciador de 2x Aura temporal, sigue escalando en lugar de quedarte inactivo en los menús.",
           "whyItMatters": "Los potenciadores temporales son más valiosos cuando cada minuto se dedica a ganar Aura."
         },
         {
           "priority": 5,
-          "name": "Gasta Gems en la Aura Shop",
+          "name": "Gasta Gems en la Tienda de Aura",
           "resource": "Gems",
-          "bestFor": "Tiradas de efectos de Aura",
-          "howToUse": "Usa Gems de los códigos para conseguir efectos de Aura en la Aura Shop.",
-          "whyItMatters": "Más tiradas en la Aura Shop ofrecen a los jugadores más opciones de build sin necesidad de farmear cada Gem manualmente."
+          "bestFor": "Giros de efectos de Aura",
+          "howToUse": "Usa Gems de los códigos para girar por efectos de aura en la Tienda de Aura.",
+          "whyItMatters": "Más giros en la Tienda de Aura ofrecen a los jugadores más opciones de configuración sin necesidad de obtener cada Gem manualmente."
         },
         {
           "priority": 6,
-          "name": "Sube más alto después de las mejoras",
+          "name": "Sube más alto tras las mejoras",
           "resource": "Mejoras de escalada",
-          "bestFor": "Recorridos de escaleras más largos",
-          "howToUse": "Regresa a las escaleras después de las mejoras y prueba qué tan lejos puede llegar la escalada mejorada.",
-          "whyItMatters": "El juego se vuelve más peligroso en los pisos superiores, por lo que a las mejoras les deben seguir intentos en pisos más altos."
+          "bestFor": "Recorridos por las escaleras más largos",
+          "howToUse": "Regresa a las escaleras tras las mejoras y comprueba cuánto más lejos puedes llegar con la escalada mejorada.",
+          "whyItMatters": "El juego se vuelve más peligroso en los pisos superiores, por lo que las mejoras deben ir seguidas de intentos en pisos más altos."
         }
       ]
     },
     "auraGemsAndAuraShop": {
-      "eyebrow": "Gems y Aura Shop",
-      "title": "Guía de Gems y Aura Shop de Aura Monster Simulator",
-      "subtitle": "Las Gems son el recurso premium que se utiliza para las tiradas de la Aura Shop, mientras que los potenciadores de Aura te ayudan a ganar más Aura durante las sesiones de escalada. Usa las Gems de los códigos al principio para probar efectos de Aura útiles, y luego ahórralas una vez que tu efecto actual te permita realizar escaladas más largas.",
-      "intro": "Aura Monster Simulator se basa en subir las escaleras sin fin, ganar Aura, mejorar las habilidades de escalada y usar Gems en la Aura Shop para obtener efectos de Aura. La ruta inicial recomendada es sencilla: canjea códigos de Gems, realiza las tiradas suficientes para mejorar tu equipamiento inicial, gasta el Aura obtenida en mejoras de escalada y reserva los potenciadores de Aura x2 temporales para las sesiones de escalada activa.",
+      "eyebrow": "Gems y Tienda de Aura",
+      "title": "Guía de Gems y Tienda de Aura de Aura Monster Simulator",
+      "subtitle": "Las Gems son el recurso premium utilizado para los giros en la Tienda de Aura, mientras que los Aura Boosts ayudan a ganar más Aura durante las sesiones de escalada. Usa las Gems de los códigos al principio para probar efectos de aura útiles y luego ahorra una vez que tu efecto actual permita escaladas más largas.",
+      "intro": "Aura Monster Simulator se basa en subir las escaleras infinitas, ganar Aura, mejorar las habilidades de escalada y usar Gems en la Tienda de Aura para girar efectos de aura. La ruta inicial recomendada es sencilla: canjea códigos de Gems, gira lo suficiente para mejorar tu configuración inicial, gasta el Aura obtenida en mejoras de escalada y reserva los potenciadores temporales de 2x Aura para sesiones de escalada activa.",
       "items": [
         {
           "resource": "Gems",
           "rewardExamples": [
-            "HAPPYBIRTHDAYDANIEL: 250 Gems + Aura x2 durante 2 horas",
+            "HAPPYBIRTHDAYDANIEL: 250 Gems + 2x Aura durante 2 horas",
             "500LIKES: 200 Gems",
             "LATE100LIKES: 100 Gems"
           ],
-          "usedFor": "Tiradas de la Aura Shop para conseguir diferentes efectos de Aura.",
-          "bestAction": "Canjea los códigos de Gems antes de tu primera escalada importante, realiza tiradas solo hasta que obtengas un efecto que ayude a tu progresión y luego guarda las Gems restantes para futuras tiradas."
+          "usedFor": "Giros en la Tienda de Aura para diferentes efectos de aura.",
+          "bestAction": "Canjea los códigos de Gems antes de tu primera escalada seria, gira solo hasta que tengas un efecto que ayude a progresar y luego guarda las Gems sobrantes para giros posteriores."
         },
         {
-          "resource": "Potenciador de Aura x2",
+          "resource": "Potenciador de 2x Aura",
           "rewardExamples": [
-            "HAPPYBIRTHDAYDANIEL: Aura x2 durante 2 horas",
-            "AURAMONSTER: Aura x2 durante 1 hora"
+            "HAPPYBIRTHDAYDANIEL: 2x Aura durante 2 horas",
+            "AURAMONSTER: 2x Aura durante 1 hora"
           ],
-          "usedFor": "Duplica la ganancia de Aura durante una sesión de escalada activa.",
+          "usedFor": "Duplicar la ganancia de Aura durante una sesión de escalada activa.",
           "bestAction": "Inicia un potenciador temporal cuando puedas escalar sin interrupciones y compra mejoras durante la misma sesión."
         },
         {
-          "resource": "Tiradas de la Aura Shop",
+          "resource": "Giros en la Tienda de Aura",
           "rewardExamples": [
-            "Compradas con Gems"
+            "Comprados con Gems"
           ],
-          "usedFor": "Obtener efectos de Aura que definen tu eficiencia de escalada y la dirección de tu build.",
-          "bestAction": "Prueba un efecto durante un ciclo completo de escalada antes de gastar más Gems en otra tirada."
+          "usedFor": "Girar efectos de aura que definen tu eficiencia de escalada y la orientación de tu configuración.",
+          "bestAction": "Prueba un efecto durante un ciclo completo de escalada antes de gastar más Gems en otro nuevo giro."
         },
         {
-          "resource": "Aura obtenida",
+          "resource": "Aura ganada",
           "rewardExamples": [
-            "Se obtiene subiendo escaleras"
+            "Se obtiene al subir escaleras"
           ],
-          "usedFor": "Mejora las habilidades de escalada y avanza más por la escalera infinita.",
-          "bestAction": "Gasta Aura en mejoras de escalada prácticas antes de intentar subir a pisos altos o iniciar un ciclo de Rebirth."
+          "usedFor": "Mejorar las habilidades de escalada y llegar más lejos en la escalera sin fin.",
+          "bestAction": "Gasta Aura en mejoras de escalada prácticas antes de intentar avanzar a pisos altos o iniciar un ciclo de rebirth."
         }
       ]
     },
     "auraRebirthGuide": {
       "eyebrow": "Estrategia de Rebirth",
       "title": "Guía de Rebirth de Aura Monster Simulator",
-      "subtitle": "El Rebirth es el reinicio de progresión a largo plazo que permite que cada ciclo de escalada sea más fuerte. El mejor momento es cuando tu partida actual se ralentiza y antes de dedicar más tiempo a mejoras que ya no impulsan tu ascenso de manera eficiente.",
-      "intro": "Aura Monster Simulator utiliza un bucle repetitivo: subir escaleras, ganar Aura, comprar mejoras de escalada, girar efectos de aura con Gems y luego hacer Rebirth para fortalecerse en el siguiente ciclo. Trata el Rebirth como un reinicio planificado: termina tu ventana de potenciadores activos, usa tus recursos actuales y luego reinicia el ascenso con un mejor escalado a largo plazo.",
+      "subtitle": "Rebirth es el reinicio de progresión a largo plazo que permite que cada ciclo de escalada se vuelva más fuerte. El mejor momento es después de que tu partida actual se ralentice y antes de gastar más tiempo en mejoras que ya no te permiten avanzar de manera eficiente en tu escalada.",
+      "intro": "Aura Monster Simulator utiliza un bucle repetitivo: subir escaleras, ganar Aura, comprar mejoras de escalada, conseguir efectos de aura con Gems y luego hacer rebirth para volverse más fuerte en el siguiente ciclo. Trata el rebirth como un reinicio planificado: termina tu ventana de potenciador activo, usa tus recursos actuales y luego reinicia la escalada con una mejor progresión a largo plazo.",
       "items": [
         {
           "phase": "Fase 1",
-          "title": "Prepara el primer ascenso",
-          "goal": "Sube la escalera, gana Aura y compra las mejoras iniciales que hacen que el movimiento y los ingresos de Aura sean más fluidos.",
-          "playerAction": "Usa las Gems de tus primeros códigos para giros en la Aura Shop solo después de entender qué le falta a tu ascenso actual."
+          "title": "Preparar la primera escalada",
+          "goal": "Sube la escalera, gana Aura y compra las primeras mejoras que hacen que el movimiento y la obtención de Aura se sientan más fluidos.",
+          "playerAction": "Usa tus primeras Gems de códigos para giros de la tienda de Aura solo después de entender qué le falta a tu escalada actual."
         },
         {
           "phase": "Fase 2",
-          "title": "Identifica el punto de ralentización",
-          "goal": "Presta atención al momento en que las mejoras se sientan caras y tu progreso de pisos se ralentice.",
-          "playerAction": "Prepárate para el Rebirth una vez que la próxima ganancia permanente sea más valiosa que forzar otro ascenso corto con pocos resultados."
+          "title": "Identificar el punto de ralentización",
+          "goal": "Presta atención al momento en que las mejoras parezcan caras y tu progreso de pisos se ralentice.",
+          "playerAction": "Prepárate para el rebirth una vez que la siguiente mejora permanente sea más valiosa que forzar otra escalada corta con pocos beneficios."
         },
         {
           "phase": "Fase 3",
-          "title": "Realiza un Rebirth limpio",
-          "goal": "Usa el Rebirth como el reinicio que convierte el esfuerzo de escalada previo en un escalado a largo plazo más fuerte.",
-          "playerAction": "Termina primero el tiempo de potenciadores activos, gasta en mejoras de Aura útiles y luego haz Rebirth cuando el ciclo esté listo."
+          "title": "Realizar un rebirth limpio",
+          "goal": "Usa el rebirth como el reinicio que convierte el esfuerzo de escalada anterior en una mejor progresión a largo plazo.",
+          "playerAction": "Primero termina el tiempo del potenciador activo, compra mejoras de Aura útiles y luego haz rebirth cuando el ciclo esté listo."
         },
         {
           "phase": "Fase 4",
-          "title": "Recupérate rápido tras el Rebirth",
-          "goal": "Recupera rápido la velocidad de escalada básica y regresa a tu rango de pisos anterior con un mejor escalado.",
-          "playerAction": "Compra primero las mejoras de bajo costo, prueba tu efecto de aura actual y luego inicia un potenciador de 2x Aura para el próximo avance ininterrumpido."
+          "title": "Recuperarse rápido después del rebirth",
+          "goal": "Recupera rápidamente la velocidad básica de escalada y regresa a tu rango de pisos anterior con una mejor progresión.",
+          "playerAction": "Compra primero las mejoras de bajo costo, prueba tu efecto de aura actual y luego activa un potenciador de Aura x2 para el siguiente avance sin interrupciones."
         }
       ]
     },
     "auraHighFloorSurvival": {
       "eyebrow": "Supervivencia en pisos altos",
       "title": "Guía de supervivencia en pisos altos de Aura Monster Simulator",
-      "subtitle": "Cuanto más alto subas, más peligrosa se vuelve la escalera. Las partidas en pisos altos son más fáciles cuando tus controles, mejoras de Aura, efectos de la Aura Shop y el tiempo de los potenciadores están configurados antes de que el peligro aumente.",
-      "intro": "Los pisos altos no son solo una prueba de estadísticas. Aura Monster Simulator te pide escalar, esquivar peligros, seguir ganando Aura y evitar errores de movimiento a medida que aumenta el peligro. Usa esta lista de verificación antes de intentar alcanzar un nuevo piso máximo.",
+      "subtitle": "Cuanto más alto subas, más peligrosa se vuelve la escalera. Las partidas en pisos altos son más fáciles si configuras tus controles, mejoras de Aura, el efecto de la tienda de Aura y el tiempo de los potenciadores antes de que aumente el peligro.",
+      "intro": "Los pisos altos no son solo una prueba de estadísticas. Aura Monster Simulator te exige escalar, esquivar obstáculos, seguir ganando Aura y evitar errores de movimiento a medida que aumenta el peligro. Usa esta lista de verificación antes de intentar alcanzar un nuevo piso máximo.",
       "items": [
         {
           "check": "Confirma tus controles antes de un intento de récord",
-          "whyItMatters": "El juego es compatible con controles de PC, mando y móvil, y los errores en pisos altos se vuelven más costosos a medida que aumenta el peligro.",
-          "action": "Usa W/A/D en PC, A/L1/R1 en mando o las zonas izquierda/central/derecha de la pantalla móvil hasta que el movimiento se sienta automático."
+          "whyItMatters": "El juego es compatible con controles de PC, mando y dispositivos móviles, y los errores en pisos altos se vuelven más costosos a medida que aumenta el peligro.",
+          "action": "Usa W/A/D en PC, A/L1/R1 en mando, o las zonas izquierda, central y derecha de la pantalla en dispositivos móviles hasta que el movimiento se sientan automático."
         },
         {
           "check": "Gasta Aura antes de subir más alto",
-          "whyItMatters": "El Aura ganada al escalar se usa para mejorar las habilidades de escalada, lo que ayuda directamente a realizar recorridos de escaleras más largos.",
+          "whyItMatters": "El Aura ganada al escalar se usa para mejorar las habilidades de escalada, lo que ayuda directamente a realizar recorridos más largos por las escaleras.",
           "action": "Compra mejoras de escalada prácticas antes de intentar alcanzar un nuevo piso máximo."
         },
         {
-          "check": "Usa potenciadores de 2x Aura temporales durante la escalada activa",
-          "whyItMatters": "Los potenciadores por código tienen tiempo limitado, por lo que el tiempo de inactividad reduce su valor.",
-          "action": "Inicia un potenciador AURAMONSTER o HAPPYBIRTHDAYDANIEL solo cuando estés listo para escalar y mejorar continuamente."
+          "check": "Usa potenciadores de Aura x2 temporales durante la escalada activa",
+          "whyItMatters": "Los potenciadores por códigos tienen un tiempo limitado, por lo que el tiempo de inactividad reduce su valor.",
+          "action": "Activa un potenciador de AURAMONSTER o HAPPYBIRTHDAYDANIEL solo cuando estés listo para escalar y mejorar continuamente."
         },
         {
-          "check": "Configura tu efecto de la Aura Shop antes de la partida",
-          "whyItMatters": "Las Gems se gastan en la Aura Shop para obtener efectos de aura que ayudan a la progresión.",
-          "action": "Evita girar de nuevo en el último segundo antes de un intento de piso alto; prueba un efecto útil durante un ciclo completo de escalada."
+          "check": "Configura tu efecto de la tienda de Aura antes de la partida",
+          "whyItMatters": "Las Gems se gastan en la tienda de Aura para obtener efectos de aura que ayudan a la progresión.",
+          "action": "Evita cambiar el efecto a último segundo antes de intentar un piso alto; prueba un efecto útil durante un ciclo completo de escalada."
         },
         {
           "check": "Trata los pisos más altos como zonas de peligro",
           "whyItMatters": "La escalera se vuelve más peligrosa a medida que subes, y los peligros son parte del ascenso.",
-          "action": "Reduce la velocidad brevemente cuando un segmento se vuelva peligroso, luego retoma la velocidad una vez que el patrón de peligro esté despejado."
+          "action": "Reduce la velocidad brevemente cuando un tramo se vuelva arriesgado, luego retoma el ritmo una vez que el patrón de peligro esté claro."
         },
         {
           "check": "Reinicia el ciclo cuando el progreso se estanque",
-          "whyItMatters": "Rebirth es parte del bucle de ascenso a largo plazo y ayuda a que los intentos posteriores sean más fuertes.",
-          "action": "Tras varios intentos fallidos, haz Rebirth y reconstruye en lugar de gastar potenciadores en una partida estancada."
+          "whyItMatters": "El Rebirth es parte del ciclo de ascenso a largo plazo y ayuda a que los intentos posteriores sean más fuertes.",
+          "action": "Después de varios intentos fallidos por avanzar, haz Rebirth y reconstruye en lugar de gastar potenciadores en una partida estancada."
         }
       ]
     },
     "auraDiscordAndUpdates": {
       "eyebrow": "Discord y actualizaciones",
-      "title": "Guía de actualizaciones y Discord de Aura Monster Simulator",
-      "subtitle": "La página de Roblox actualmente etiqueta el juego como UPDATE V1.75 y redirige a los jugadores al servidor para actualizaciones, encuestas, sugerencias y más. Utiliza primero la página oficial del juego, la comunidad de Roblox y Discord.",
-      "intro": "Las actualizaciones de Aura Monster Simulator son más fáciles de seguir a través de la página oficial del juego en Roblox, la página de la comunidad Daniel's Birthday Gift!!! y el servidor de Discord enlazado. Esta sección mantiene claro el historial de actualizaciones para nuevos códigos, como metas de \"me gusta\", y cambios en el título de la versión.",
+      "title": "Guía de Discord y actualizaciones de Aura Monster Simulator",
+      "subtitle": "La página de Roblox actualmente etiqueta el juego como UPDATE V1.75 y dirige a los jugadores al servidor para ver actualizaciones, encuestas, sugerencias y más. Utiliza primero la página oficial del juego, la comunidad de Roblox y Discord.",
+      "intro": "Las actualizaciones de Aura Monster Simulator son más fáciles de seguir a través de la página oficial del juego en Roblox, la página de la comunidad de Daniel's Birthday Gift!!! y el servidor de Discord enlazado. Esta sección mantiene un registro claro de las actualizaciones para nuevos códigos, metas de \"me gusta\" y cambios en los títulos de las versiones.",
       "items": [
         {
           "question": "¿Dónde está la página oficial del juego Aura Monster Simulator?",
-          "answer": "Utiliza la página de la experiencia de Roblox para ver el título actual, el botón de jugar, el nombre del creador, los controles y la etiqueta de actualización. El título actual de la página muestra Aura Monster Simulator [UPDATE V1.75].",
+          "answer": "Usa la página de la experiencia de Roblox para ver el título actual, el botón de jugar, el nombre del creador, los controles y la etiqueta de actualización. El título actual de la página muestra Aura Monster Simulator [UPDATE V1.75].",
           "linkLabel": "Aura Monster Simulator en Roblox",
           "href": "https://www.roblox.com/games/102919136726112/Aura-Monster-Simulator"
         },
         {
-          "question": "¿Quién es la comunidad de creadores de Aura Monster Simulator?",
+          "question": "¿Quién es la comunidad creadora de Aura Monster Simulator?",
           "answer": "La experiencia está publicada por Daniel's Birthday Gift!!!, y la página de la comunidad de Roblox es el enlace principal del grupo conectado al juego.",
           "linkLabel": "Comunidad de Roblox de Daniel's Birthday Gift!!!",
           "href": "https://www.roblox.com/communities/867208813/Daniels-Birthday-Gift"
         },
         {
-          "question": "¿Dónde deberían buscar los jugadores nuevas actualizaciones y códigos de Aura Monster Simulator?",
+          "question": "¿Dónde deben buscar los jugadores nuevas actualizaciones y códigos de Aura Monster Simulator?",
           "answer": "La descripción de Roblox indica a los jugadores que se unan al servidor para recibir actualizaciones, encuestas, sugerencias y más. Los nuevos códigos suelen estar vinculados a actualizaciones, eventos y metas de \"me gusta\", por lo que se debe consultar primero Discord y la comunidad de Roblox.",
           "linkLabel": "Discord de Aura Monster Simulator",
           "href": "https://discord.com/invite/PZuMGfm6jN"
         },
         {
           "question": "¿Qué recompensas de códigos actuales de Aura Monster Simulator son importantes para el seguimiento de actualizaciones?",
-          "answer": "El grupo de recompensas actuales incluye Gems y potenciadores temporales de 2x Aura. Algunos ejemplos clave incluyen HAPPYBIRTHDAYDANIEL para obtener 250 Gems más 2 horas de 2x Aura, AURAMONSTER para 1 hora de 2x Aura, 500LIKES para 200 Gems y LATE100LIKES para 100 Gems."
+          "answer": "El grupo de recompensas actual incluye Gems y potenciadores de Aura x2 temporales. Algunos ejemplos clave son HAPPYBIRTHDAYDANIEL para obtener 250 Gems más 2 horas de Aura x2, AURAMONSTER para obtener 1 hora de Aura x2, 500LIKES para obtener 200 Gems y LATE100LIKES para obtener 100 Gems."
         },
         {
           "question": "¿Cómo se deben gestionar los códigos de metas de \"me gusta\" de Aura Monster Simulator?",
-          "answer": "Los códigos de metas de \"me gusta\" como 500LIKES y LATE100LIKES deben canjearse rápidamente y rastrearse por separado de los códigos de eventos, ya que las recompensas de estas metas pueden caducar después de que se cierre el periodo de actualización."
+          "answer": "Los códigos de metas de \"me gusta\" como 500LIKES y LATE100LIKES deben canjearse rápidamente y registrarse por separado de los códigos de eventos, ya que las recompensas de las metas pueden expirar una vez que se cierra el periodo de actualización."
         }
       ]
     }
@@ -448,23 +448,23 @@
     "questions": [
       {
         "question": "¿Qué es Aura Monster Simulator?",
-        "answer": "Aura Monster Simulator es un juego de Roblox de subir una escalera sin fin creado por Daniel's Birthday Gift!!! Los jugadores suben para ganar Aura, gastan Aura en mejoras de ascenso, buscan efectos de aura en la Aura Shop con Gems, desbloquean títulos y hacen Rebirth para obtener una mayor progresión a largo plazo."
+        "answer": "Aura Monster Simulator es un juego de Roblox de subir una escalera sin fin creado por Daniel's Birthday Gift!!! Los jugadores suben para ganar Aura, gastan Aura en mejoras de ascenso, realizan tiradas de efectos de aura en la tienda de Aura con Gems, desbloquean títulos y hacen Rebirth para obtener una mayor progresión a largo plazo."
       },
       {
         "question": "¿Cómo canjeo códigos en Aura Monster Simulator?",
-        "answer": "En Aura Monster Simulator, abre el icono de Códigos en el lado izquierdo de la pantalla, pega un código en el cuadro de texto y presiona Enter. Los códigos distinguen entre mayúsculas y minúsculas, así que introduce cada uno exactamente como se muestra para reclamar Gems y recompensas de potenciadores temporales de 2x Aura."
+        "answer": "En Aura Monster Simulator, abre el icono de códigos en la parte izquierda de la pantalla, pega un código en el cuadro de texto y presiona Enter. Los códigos distinguen entre mayúsculas y minúsculas, así que introduce cada uno exactamente como se muestra para reclamar Gems y recompensas de potenciadores de Aura x2 temporales."
       },
       {
         "question": "¿Para qué se usan las Gems en Aura Monster Simulator?",
-        "answer": "En Aura Monster Simulator, las Gems son el recurso premium que se utiliza para los giros de la Aura Shop. Cada giro te da la oportunidad de obtener un efecto de aura diferente que define tu eficiencia de ascenso y la dirección de tu personaje."
+        "answer": "En Aura Monster Simulator, las Gems son el recurso prémium que se utiliza para las tiradas de la tienda de Aura. Cada tirada te da la oportunidad de obtener un efecto de aura diferente que influye en tu eficiencia de ascenso y en la dirección de tu configuración."
       },
       {
         "question": "¿Cómo funciona el Rebirth en Aura Monster Simulator?",
-        "answer": "En Aura Monster Simulator, el Rebirth es un reinicio planificado del progreso que transforma tu esfuerzo de ascenso actual en una progresión más fuerte a largo plazo. El mejor momento para hacerlo es cuando tu partida se ralentice, una vez que las ganancias permanentes superen el esfuerzo de forzar otro ascenso corto."
+        "answer": "En Aura Monster Simulator, el Rebirth es un reinicio planificado de la progresión que convierte tu esfuerzo de ascenso actual en una mayor progresión a largo plazo. El mejor momento para hacerlo es cuando tu partida se ralentice, una vez que las ganancias permanentes superen el esfuerzo de forzar otro ascenso corto."
       },
       {
-        "question": "¿En qué plataformas está disponible Aura Monster Simulator?",
-        "answer": "Aura Monster Simulator es una experiencia de Roblox disponible en PC, mando y dispositivos móviles. Cada plataforma tiene sus propios controles de avanzar, izquierda, derecha y automático para subir la escalera sin fin."
+        "question": "¿En qué plataformas está Aura Monster Simulator?",
+        "answer": "Aura Monster Simulator es una experiencia de Roblox que se puede jugar en PC, mando y dispositivos móviles. Cada plataforma tiene sus propios controles para avanzar, ir a la izquierda, a la derecha y de forma automática para subir la escalera sin fin."
       },
       {
         "question": "¿Dónde puedo encontrar nuevos códigos y actualizaciones de Aura Monster Simulator?",
@@ -473,43 +473,43 @@
     ]
   },
   "cta": {
-    "title": "¿Listo para subir la escalera sin fin?",
-    "description": "Canjea los últimos códigos, domina tus giros de aura y Rebirth, y comienza a subir hacia la cima en Aura Monster Simulator en Roblox.",
-    "joinCommunity": "Ver jugabilidad",
+    "title": "¿Listo para subir la escalera infinita?",
+    "description": "Canjea los últimos códigos, domina tus tiradas de aura y el Rebirth, y comienza a subir hacia la cima en Aura Monster Simulator en Roblox.",
+    "joinCommunity": "Ver gameplay",
     "joinGame": "Jugar en Roblox"
   },
   "footer": {
-    "title": "Aura Monster Simulator Wiki",
-    "description": "Tu centro de recursos completo para códigos, auras, Gems, Rebirth, títulos, controles y guías de escalada de Aura Monster Simulator en Roblox.",
+    "title": "Wiki de Aura Monster Simulator",
+    "description": "Tu centro de recursos completo para códigos de Aura Monster Simulator, auras, Gems, Rebirth, títulos, controles y guías de escalada en Roblox.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
     "roblox": "Página del juego en Roblox",
-    "youtube": "Jugabilidad en YouTube",
+    "youtube": "Gameplay en YouTube",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Aura Monster Simulator Wiki. No afiliado con los desarrolladores de Aura Monster Simulator ni con Roblox Corporation.",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Aura Monster Simulator Wiki. No está afiliada con los desarrolladores de Aura Monster Simulator ni con Roblox Corporation.",
     "disclaimer": "Sitio web de recursos no oficial creado por fans."
   },
   "pages": {
     "codes": {
       "title": "Códigos de Aura Monster Simulator",
       "metaTitle": "Códigos de Aura Monster Simulator - Gems gratis y potenciadores de aura",
-      "metaDescription": "Consigue Gems gratis, potenciadores de aura y recompensas con los códigos activos de Aura Monster Simulator. Actualizado regularmente con códigos verificados que funcionan y pasos de canje.",
-      "description": "Últimos códigos activos de Aura Monster Simulator para obtener Gems gratis y potenciadores de aura. Actualizado regularmente con códigos verificados y canje paso a paso.",
+      "metaDescription": "Obtén Gems gratis, potenciadores de aura y recompensas con los códigos activos de Aura Monster Simulator. Actualizado regularmente con códigos verificados y pasos para canjearlos.",
+      "description": "Últimos códigos funcionales de Aura Monster Simulator para Gems gratis y potenciadores de aura. Actualizado regularmente con códigos verificados y canje paso a paso.",
       "categoryLabel": "CANJEAR CÓDIGOS",
       "whatIs": "¿Qué son los códigos de Aura Monster Simulator?",
-      "whatIsDescription": "Los códigos de Aura Monster Simulator son cadenas promocionales lanzadas por el desarrollador que otorgan recompensas gratuitas dentro del juego, como Gems y potenciadores de aura dobles temporales. Los códigos distinguen entre mayúsculas y minúsculas y se canjean en el menú de códigos para acelerar la progresión inicial, los giros de la tienda de auras y las mejoras de escalada.",
+      "whatIsDescription": "Los códigos de Aura Monster Simulator son cadenas promocionales lanzadas por el desarrollador que otorgan recompensas gratuitas en el juego, como Gems y potenciadores de aura x2 temporales. Los códigos distinguen entre mayúsculas y minúsculas y se canjean en el menú de Códigos para acelerar el progreso inicial, las tiradas en la Aura Shop y las mejoras de escalada.",
       "why": "¿Por qué canjear códigos de Aura Monster Simulator?",
       "whySteps": {
-        "step1Title": "Gems gratis para giros de la tienda de auras",
-        "step1Description": "Los códigos canjeados otorgan Gems que gastas en la tienda de auras para obtener potentes efectos de aura que aumentan tu poder de escalada.",
-        "step2Title": "Potenciadores de aura dobles temporales",
+        "step1Title": "Gems gratis para tiradas en la Aura Shop",
+        "step1Description": "Los códigos canjeados otorgan Gems que gastas en la Aura Shop para tirar por efectos de aura poderosos que aumentan tu poder de escalada.",
+        "step2Title": "Potenciadores de aura x2 temporales",
         "step2Description": "Muchos códigos otorgan potenciadores temporales de generación de aura que duplican tu ganancia de aura y aceleran las mejoras de habilidades de escalada.",
-        "step3Title": "Progresión más rápida en el juego temprano",
-        "step3Description": "Las recompensas gratuitas de los códigos te permiten omitir el progreso lento inicial y alcanzar pisos más altos antes sin gastar Robux."
+        "step3Title": "Progresión más rápida al inicio del juego",
+        "step3Description": "Las recompensas gratuitas de los códigos te permiten saltarte el grindeo inicial y alcanzar pisos más altos antes sin gastar Robux."
       },
       "featured": "Códigos destacados",
       "all": "Todos los códigos de Aura Monster Simulator"
@@ -518,136 +518,136 @@
       "title": "Guías de Aura Monster Simulator",
       "metaTitle": "Guías de Aura Monster Simulator - Principiantes, progresión y consejos",
       "metaDescription": "Guías completas de Aura Monster Simulator que cubren la progresión para principiantes, mejoras de escalada, estrategia de Rebirth y consejos para jugadores de Roblox.",
-      "description": "Guías exhaustivas de Aura Monster Simulator para principiantes y jugadores avanzados, que cubren la progresión, mejoras de escalada, Rebirth y consejos.",
+      "description": "Guías exhaustivas de Aura Monster Simulator para jugadores principiantes y avanzados, que cubren la progresión, mejoras de escalada, Rebirth y consejos.",
       "categoryLabel": "GUÍAS",
       "whatIs": "¿Qué incluye la guía de Aura Monster Simulator?",
-      "whatIsDescription": "La guía de Aura Monster Simulator cubre el ciclo principal de escalada, los objetivos del juego temprano, la prioridad de mejoras, la estrategia de Rebirth y los controles de movimiento en PC, mando y móvil, guiándote desde tu primera hora de juego hasta el dominio a largo plazo de la versión V1.75.",
+      "whatIsDescription": "La guía de Aura Monster Simulator cubre el ciclo básico de escalada, los objetivos iniciales, la prioridad de mejoras, la estrategia de Rebirth y los controles de movimiento en PC, mando y móvil, guiándote desde la primera hora de juego hasta el dominio a largo plazo de la V1.75.",
       "why": "¿Por qué leer la guía de Aura Monster Simulator?",
       "whySteps": {
         "step1Title": "Ruta de progresión clara",
         "step1Description": "Aprende el orden óptimo para gastar Aura en habilidades de escalada y Gems en tiradas de la Aura Shop para un crecimiento eficiente a largo plazo.",
-        "step2Title": "Evita errores comunes de principiante",
-        "step2Description": "Entiende cuándo hacer Rebirth, qué mejoras omitir y cómo gestionar recursos sin desperdiciar tu ventaja inicial.",
+        "step2Title": "Evita errores comunes de principiantes",
+        "step2Description": "Entiende cuándo hacer Rebirth, qué mejoras omitir y cómo gestionar los recursos sin desperdiciar tu ventaja inicial.",
         "step3Title": "Domina cada plataforma",
-        "step3Description": "Obtén los esquemas de control oficiales para PC, mando y móvil para superar obstáculos limpiamente en cualquier dispositivo."
+        "step3Description": "Obtén los esquemas de control oficiales para PC, mando y móvil para poder superar los peligros limpiamente en cualquier dispositivo."
       },
       "featured": "Guías destacadas",
       "all": "Todas las guías de Aura Monster Simulator"
     },
     "aura": {
       "title": "Auras de Aura Monster Simulator",
-      "metaTitle": "Auras de Aura Monster Simulator - Guía de cómo obtenerlas y las mejores Auras",
-      "metaDescription": "Guía completa de Aura Monster Simulator: cómo obtener y farmear Aura, alcanzar el máximo de aura, efectos de aura y las mejores tiradas de aura.",
-      "description": "Domina el Aura en Aura Monster Simulator: cómo obtener y farmear Aura, alcanzar el máximo de aura, entender los efectos de aura y tirar por la mejor aura.",
+      "metaTitle": "Auras de Aura Monster Simulator - Guía de cómo obtenerlas y las mejores auras",
+      "metaDescription": "Guía completa de auras de Aura Monster Simulator: cómo obtener y farmear Aura, alcanzar el aura máxima, efectos de aura y las mejores tiradas de aura a las que apuntar.",
+      "description": "Domina el Aura en Aura Monster Simulator: cómo obtener y farmear Aura, alcanzar el aura máxima, entender los efectos de aura y tirar por la mejor aura.",
       "categoryLabel": "AURAS",
       "whatIs": "¿Qué es el Aura en Aura Monster Simulator?",
-      "whatIsDescription": "El Aura es el recurso principal en Aura Monster Simulator, generado al subir la escalera infinita y gastado en mejoras de habilidades de escalada. Los efectos de Aura y las tiradas de la Aura Shop proporcionan multiplicadores que aceleran tu ascenso y desbloquean nuevos hitos.",
+      "whatIsDescription": "El Aura es el recurso principal en Aura Monster Simulator, generado al subir la escalera infinita y gastado en mejoras de habilidades de escalada. Los efectos de aura y las tiradas de la Aura Shop otorgan multiplicadores que aceleran tu ascenso y desbloquean nuevos hitos.",
       "why": "¿Por qué centrarse en el Aura?",
       "whySteps": {
-        "step1Title": "Impulsa tus mejoras de escalada",
-        "step1Description": "El Aura se gasta en habilidades de escalada que aumentan la velocidad, el auto-climb y la eficiencia para que puedas llegar a pisos más altos.",
-        "step2Title": "Consigue efectos de aura poderosos",
+        "step1Title": "Potencia tus mejoras de escalada",
+        "step1Description": "El Aura se gasta en habilidades de escalada que aumentan la velocidad, la escalada automática y la eficiencia para que puedas llegar a pisos más altos.",
+        "step2Title": "Tira para obtener potentes efectos de aura",
         "step2Description": "Las Gems en la Aura Shop te permiten tirar por efectos de aura y rarezas que multiplican la generación de Aura y el poder de escalada.",
-        "step3Title": "Alcanza el máximo de aura más rápido",
-        "step3Description": "Las rutas de farmeo eficientes y la prioridad de mejoras te ayudan a alcanzar los umbrales de aura máxima y desbloquear títulos y Rebirths."
+        "step3Title": "Alcanza el aura máxima más rápido",
+        "step3Description": "Las rutas de farmeo eficientes y la prioridad de mejoras te ayudan a alcanzar los límites de aura máxima y a desbloquear títulos y Rebirths."
       },
       "featured": "Guías de Aura destacadas",
       "all": "Todas las guías de Aura de Aura Monster Simulator"
     },
     "gems": {
       "title": "Gems de Aura Monster Simulator",
-      "metaTitle": "Gems de Aura Monster Simulator - Guía de Gems gratis y Aura Shop",
-      "metaDescription": "Aprende cómo obtener Gems gratis en Aura Monster Simulator, farmear eficientemente y gastar Gems sabiamente en la Aura Shop para las mejores tiradas de aura.",
-      "description": "Guía completa de Gems en Aura Monster Simulator: cómo obtener Gems gratis, las mejores rutas de farmeo y cómo gastar Gems en la Aura Shop para tiradas de aura.",
+      "metaTitle": "Gems de Aura Monster Simulator - Guía de Gems gratis y la Aura Shop",
+      "metaDescription": "Aprende cómo obtener Gems gratis en Aura Monster Simulator, farmear de manera eficiente y gastar Gems sabiamente en la Aura Shop para conseguir las mejores tiradas de aura.",
+      "description": "Guía completa de Gems de Aura Monster Simulator: cómo obtener Gems gratis, las mejores rutas de farmeo y cómo gastar Gems en la Aura Shop para tiradas de aura.",
       "categoryLabel": "GEMS",
       "whatIs": "¿Qué son las Gems en Aura Monster Simulator?",
-      "whatIsDescription": "Las Gems son la moneda premium en Aura Monster Simulator, gastadas en la Aura Shop para tirar por efectos de aura poderosos y rarezas. Ganas Gems mediante códigos, hitos de escalada y rutas de farmeo, para luego convertirlas en tiradas de aura que definen tu build.",
+      "whatIsDescription": "Las Gems son la moneda premium en Aura Monster Simulator, gastada en la Aura Shop para tirar por potentes efectos de aura y rarezas. Ganas Gems con códigos, hitos de escalada y rutas de farmeo, para luego convertirlas en tiradas de aura que definen tu build.",
       "why": "¿Por qué gestionar las Gems con cuidado?",
       "whySteps": {
-        "step1Title": "Gems gratis mediante códigos y farmeo",
+        "step1Title": "Gems gratis de códigos y farmeo",
         "step1Description": "Los códigos activos y las rutas de farmeo dedicadas proporcionan un flujo constante de Gems gratis sin gastar Robux.",
-        "step2Title": "Gasta en tiradas de aura de alto valor",
-        "step2Description": "La Aura Shop convierte Gems en efectos de aura y rarezas; prioriza las tiradas que multiplican la generación de Aura y el poder de escalada.",
+        "step2Title": "Gasta en tiradas de aura de gran valor",
+        "step2Description": "La Aura Shop convierte Gems en efectos de aura y rarezas; prioriza las tiradas que multipliquen la generación de Aura y el poder de escalada.",
         "step3Title": "Planifica la economía de Gems a largo plazo",
-        "step3Description": "Un plan de gasto de Gems claro mantiene tus tiradas de la Aura Shop alineadas con tu build en lugar de agotar los recursos al azar."
+        "step3Description": "Un plan claro de gasto de Gems mantiene tus tiradas de la Aura Shop alineadas con tu build en lugar de agotar los recursos al azar."
       },
       "featured": "Guías de Gems destacadas",
       "all": "Todas las guías de Gems de Aura Monster Simulator"
     },
     "monsters": {
-      "title": "Monstruos de Aura Monster Simulator",
-      "metaTitle": "Monstruos de Aura Monster Simulator - Mejores monstruos y lista de niveles",
-      "metaDescription": "Encuentra los mejores monstruos de Aura Monster Simulator, guía de desbloqueo, rutas de mejora y una lista completa de monstruos con clasificaciones y auras.",
-      "description": "Guía completa de monstruos de Aura Monster Simulator: los mejores monstruos, cómo desbloquearlos, rutas de mejora y una lista completa de monstruos con clasificaciones.",
-      "categoryLabel": "MONSTRUOS",
-      "whatIs": "¿Qué son los monstruos en Aura Monster Simulator?",
-      "whatIsDescription": "Los monstruos son formas obtenibles mediante tiradas y compañeros en Aura Monster Simulator que proporcionan bonificaciones pasivas a la generación de Aura, la velocidad de escalada y la obtención de recursos. Desbloqueas monstruos a través de la progresión y los mejoras para potenciar tu build a medida que subes la escalera sin fin.",
-      "why": "¿Por qué invertir en monstruos?",
+      "title": "Monsters de Aura Monster Simulator",
+      "metaTitle": "Monsters de Aura Monster Simulator - Mejores Monsters y Tier List",
+      "metaDescription": "Encuentra los mejores monsters de Aura Monster Simulator, guía de desbloqueo, rutas de mejora y una lista completa de monsters con clasificaciones y auras.",
+      "description": "Guía completa de monsters de Aura Monster Simulator: los mejores monsters, cómo desbloquearlos, rutas de mejora y una lista completa de monsters con clasificaciones.",
+      "categoryLabel": "MONSTERS",
+      "whatIs": "¿Qué son los Monsters en Aura Monster Simulator?",
+      "whatIsDescription": "Los Monsters son formas obtenibles y compañeros en Aura Monster Simulator que proporcionan bonificaciones pasivas a la generación de Aura, la velocidad de escalada y la obtención de recursos. Desbloqueas monsters a través del progreso y los mejoras para potenciar tu build mientras subes la escalera infinita.",
+      "why": "¿Por qué invertir en Monsters?",
       "whySteps": {
-        "step1Title": "Los mejores monstruos para tu build",
-        "step1Description": "Usa la lista de niveles de monstruos para elegir los de mayor valor que se adapten a tu Aura y estrategia de escalada.",
-        "step2Title": "Desbloquea monstruos de manera eficiente",
-        "step2Description": "Sigue la ruta de desbloqueo para añadir nuevos monstruos sin desperdiciar recursos en tiradas de poco valor.",
+        "step1Title": "Los mejores monsters para tu build",
+        "step1Description": "Usa la tier list de monsters para elegir los de mayor valor que coincidan con tu Aura y estrategia de escalada.",
+        "step2Title": "Desbloquea monsters de manera eficiente",
+        "step2Description": "Sigue la ruta de desbloqueo para añadir nuevos monsters sin desperdiciar recursos en tiradas de bajo valor.",
         "step3Title": "Mejora para obtener potenciadores permanentes",
-        "step3Description": "Las mejoras de monstruos otorgan multiplicadores duraderos que escalan con tu progreso de escalada y Rebirth."
+        "step3Description": "Las mejoras de Monsters ofrecen multiplicadores duraderos que escalan con tu ascenso y progresión de Rebirth."
       },
-      "featured": "Guías destacadas de monstruos",
-      "all": "Todas las guías de monstruos de Aura Monster Simulator"
+      "featured": "Guías destacadas de Monsters",
+      "all": "Todas las guías de Monsters de Aura Monster Simulator"
     },
     "stairs": {
-      "title": "Escaleras de Aura Monster Simulator",
-      "metaTitle": "Escaleras de Aura Monster Simulator - Guía de escalada y de la torre",
-      "metaDescription": "Sube la escalera sin fin y la torre infinita en Aura Monster Simulator con la mejor estrategia de progresión, ruta de mejora y consejos de farmeo.",
-      "description": "Conquista la escalera sin fin y la torre infinita en Aura Monster Simulator con la mejor estrategia de escalada, ruta de mejora y consejos de farmeo.",
-      "categoryLabel": "ESCALERAS",
-      "whatIs": "¿Qué son las escaleras en Aura Monster Simulator?",
-      "whatIsDescription": "La escalera sin fin y la torre infinita forman el bucle de juego principal de Aura Monster Simulator. Subes a pisos más altos para generar Aura, esquivar peligros y desbloquear mejoras, y cada piso recompensa tu progreso y aumenta tu potencial de Rebirth.",
-      "why": "¿Por qué dominar las escaleras?",
+      "title": "Stairs de Aura Monster Simulator",
+      "metaTitle": "Stairs de Aura Monster Simulator - Guía de escalada y torre",
+      "metaDescription": "Sube la escalera infinita y la torre interminable en Aura Monster Simulator con la mejor estrategia de progresión, ruta de mejora y consejos de farmeo.",
+      "description": "Conquista la escalera infinita y la torre interminable en Aura Monster Simulator con la mejor estrategia de escalada, ruta de mejora y consejos de farmeo.",
+      "categoryLabel": "STAIRS",
+      "whatIs": "¿Qué son las Stairs en Aura Monster Simulator?",
+      "whatIsDescription": "La escalera infinita y la torre interminable forman el núcleo del juego de Aura Monster Simulator. Subes pisos más altos para generar Aura, esquivar peligros y desbloquear mejoras, con cada piso recompensando el progreso y aumentando tu potencial de Rebirth.",
+      "why": "¿Por qué dominar las Stairs?",
       "whySteps": {
-        "step1Title": "Genera Aura a medida que subes",
+        "step1Title": "Genera Aura mientras subes",
         "step1Description": "Cada piso que subes produce Aura, el recurso principal para todas las mejoras de habilidades de escalada.",
-        "step2Title": "Esquiva peligros en los pisos altos",
-        "step2Description": "Los pisos más altos introducen peligros más difíciles; aprender el movimiento y los controles basados en zonas mantiene vivas tus partidas.",
-        "step3Title": "Supera los hitos de la torre infinita",
-        "step3Description": "Alcanzar nuevos hitos de la torre desbloquea títulos, efectos de Aura y umbrales de Rebirth que potencian tu poder de forma permanente."
+        "step2Title": "Esquiva peligros en pisos altos",
+        "step2Description": "Los pisos más altos introducen peligros más difíciles; aprender el movimiento y los controles basados en zonas mantiene tus runs con vida.",
+        "step3Title": "Alcanza hitos de la torre infinita",
+        "step3Description": "Alcanzar nuevos hitos de la torre desbloquea títulos, efectos de aura y umbrales de Rebirth que potencian tu poder de forma permanente."
       },
-      "featured": "Guías destacadas de escaleras",
-      "all": "Todas las guías de escaleras de Aura Monster Simulator"
+      "featured": "Guías destacadas de Stairs",
+      "all": "Todas las guías de Stairs de Aura Monster Simulator"
     },
     "sins": {
-      "title": "Pecados de Aura Monster Simulator",
-      "metaTitle": "Pecados de Aura Monster Simulator - Guía del mejor Pecado y sus efectos",
-      "metaDescription": "Descubre qué hace cada Pecado de Aura Monster Simulator, encuentra el mejor Pecado para tu build y vuelve a tirar para obtener los efectos de Pecado adecuados.",
-      "description": "Todo sobre los Pecados de Aura Monster Simulator: qué hace cada Pecado, el mejor Pecado para tu build y cómo volver a tirar para cambiar los efectos de los Pecados.",
-      "categoryLabel": "PECADOS",
-      "whatIs": "¿Qué son los Pecados de Aura Monster Simulator?",
-      "whatIsDescription": "Los Pecados son un sistema de especialización en Aura Monster Simulator que otorga bonificaciones pasivas a la generación de Aura, la velocidad de escalada o la obtención de recursos. Cada Pecado tiene efectos únicos, y puedes volver a tirar para cambiar de Pecado a medida que cambian tu build y tu etapa de progresión.",
-      "why": "¿Por qué elegir el Pecado correcto?",
+      "title": "Sins de Aura Monster Simulator",
+      "metaTitle": "Sins de Aura Monster Simulator - Guía de mejores Sins y efectos",
+      "metaDescription": "Aprende qué hace cada Sin de Aura Monster Simulator, encuentra el mejor Sin para tu build y haz reroll para obtener los efectos de Sin adecuados.",
+      "description": "Todo sobre los Sins de Aura Monster Simulator: qué hace cada Sin, el mejor Sin para tu build y cómo hacer reroll de los efectos de Sin.",
+      "categoryLabel": "SINS",
+      "whatIs": "¿Qué son los Sins de Aura Monster Simulator?",
+      "whatIsDescription": "Los Sins son un sistema de especialización en Aura Monster Simulator que otorga bonificaciones pasivas a la generación de Aura, la velocidad de escalada o la obtención de recursos. Cada Sin tiene efectos únicos y puedes hacer reroll para cambiar de Sin a medida que cambian tu build y etapa de progresión.",
+      "why": "¿Por qué elegir el Sin correcto?",
       "whySteps": {
-        "step1Title": "Adapta el Pecado a tu build",
-        "step1Description": "Diferentes Pecados se adaptan a distintos estilos de juego; algunos potencian el farmeo de Aura, otros aceleran el ascenso o mejoran la obtención de Gems.",
+        "step1Title": "Adapta el Sin a tu build",
+        "step1Description": "Los diferentes Sins se adaptan a distintos estilos de juego; algunos potencian el farmeo de Aura, otros aceleran el ascenso o mejoran la obtención de Gems.",
         "step2Title": "Optimiza la velocidad de progresión",
-        "step2Description": "Elegir el mejor Pecado para tu etapa actual multiplica tu eficiencia y reduce el farmeo para llegar a los pisos superiores.",
-        "step3Title": "Haz Reroll mientras avanzas",
-        "step3Description": "A medida que tu build evoluciona, hacer Reroll de los Pecados mantiene tus bonificaciones alineadas con tu estrategia en lugar de limitarte."
+        "step2Description": "Elegir el mejor Sin para tu etapa actual multiplica tu eficiencia y reduce el grindeo hacia los pisos superiores.",
+        "step3Title": "Haz Reroll a medida que avanzas",
+        "step3Description": "A medida que tu build evoluciona, hacer Reroll a los Sins mantiene tus bonificaciones alineadas con tu estrategia en lugar de limitarte."
       },
-      "featured": "Guías de Pecados destacadas",
-      "all": "Todas las guías de Pecados de Aura Monster Simulator"
+      "featured": "Guías de Sin destacadas",
+      "all": "Todas las guías de Sin de Aura Monster Simulator"
     },
     "roblox": {
       "title": "Aura Monster Simulator en Roblox",
       "metaTitle": "Aura Monster Simulator Roblox - Códigos, guía y consejos de plataforma",
       "metaDescription": "Todo sobre Aura Monster Simulator en Roblox: códigos de plataforma, la guía completa de Roblox, controles y consejos de progresión para cada dispositivo.",
-      "description": "El centro completo de Aura Monster Simulator en Roblox: códigos de plataforma, la guía de progresión completa de Roblox, controles y consejos para cada dispositivo.",
+      "description": "El centro completo de Aura Monster Simulator en Roblox: códigos de plataforma, la guía completa de progresión en Roblox, controles y consejos para cada dispositivo.",
       "categoryLabel": "ROBLOX",
       "whatIs": "¿Qué es Aura Monster Simulator en Roblox?",
-      "whatIsDescription": "Aura Monster Simulator es un simulador de obby en Roblox donde subes una escalera infinita, recolectas Aura, obtienes efectos de aura poderosos con Gems y haces Rebirth para obtener mejoras permanentes. Este centro reúne códigos específicos de Roblox, controles y guías para jugadores de PC, mando y móvil.",
+      "whatIsDescription": "Aura Monster Simulator es un simulador obby de Roblox en el que subes una escalera infinita, recolectas Aura, obtienes efectos de aura poderosos con Gems y realizas Rebirth para obtener mejoras permanentes. Este centro reúne códigos, controles y guías específicos de Roblox para jugadores de PC, mando y móviles.",
       "why": "¿Por qué usar el centro de Roblox?",
       "whySteps": {
         "step1Title": "Códigos específicos de la plataforma",
         "step1Description": "Encuentra códigos de Roblox y pasos de canje adaptados para los jugadores de Aura Monster Simulator en todos los dispositivos.",
         "step2Title": "Una guía de progresión para cada dispositivo",
-        "step2Description": "Obtén la ruta de progresión completa de Roblox que cubre el ascenso, Aura, Gems y Rebirth con controles para PC, mando y móvil.",
+        "step2Description": "Obtén la ruta de progresión completa de Roblox que cubre el ascenso, Aura, Gems y Rebirth con controles para PC, mando y móviles.",
         "step3Title": "Mantente al día con las actualizaciones",
         "step3Description": "Sigue las últimas actualizaciones de Roblox, nuevos códigos y cambios de versión (V1.75) para que tu estrategia nunca se quede atrás."
       },
