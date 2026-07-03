@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "description": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
-      "ogTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "ogDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "twitterDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
+      "title": "Aura Monster Simulator Wiki - Kodlar, Aurar ve Yeniden Doğuş",
+      "description": "Aura Monster Simulator Wiki, Roblox oyuncuları için aktif kodları, aura yükseltmelerini, Elmasları, yeniden doğuşu, kontrolleri, merdivenleri, tehlikeleri, unvanları ve başlangıç ipuçlarını kapsar.",
+      "keywords": "Aura Monster Simulator, Roblox, kodlar, aurar, elmaslar, yeniden doğuş, unvanlar, kontroller, merdivenler, obby, simülatör",
+      "ogTitle": "Aura Monster Simulator Wiki - Kodlar, Aurar ve Yeniden Doğuş",
+      "ogDescription": "Aura Monster Simulator Wiki, Roblox oyuncuları için aktif kodları, aura yükseltmelerini, Elmasları, yeniden doğuşu, kontrolleri, merdivenleri, tehlikeleri, unvanları ve başlangıç ipuçlarını kapsar.",
+      "twitterTitle": "Aura Monster Simulator Wiki - Kodlar, Aurar ve Yeniden Doğuş",
+      "twitterDescription": "Aura Monster Simulator Wiki, Roblox oyuncuları için aktif kodları, aura yükseltmelerini, Elmasları, yeniden doğuşu, kontrolleri, merdivenleri, tehlikeleri, unvanları ve başlangıç ipuçlarını kapsar."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Makaleler yakında"
   },
   "hero": {
-    "badge": "Ufak cüceler. Büyük evler. Arkadaşlarla gizli soygunlar.",
-    "title": "Lucid Blocks wiki",
-    "description": "Lucid Blocks için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
-    "getFreeCodesCTA": "Demo İndir",
-    "playOnSteamCTA": "Steam'de İstek Listesine Ekle",
+    "badge": "Sonsuz Aura Tırmanma Simülatörü",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Sonu olmayan bir merdiven tırman, Aura topla, tehlikelerden kaçın, aura atışları için Elmasları kullan, unvanları aç, yeniden doğ ve bu Roblox obby simülatöründe tırmanma becerilerini yükselt.",
+    "getFreeCodesCTA": "Ücretsiz Kodlar",
+    "playOnRobloxCTA": "Roblox'ta Oyna",
     "stats": {
       "stat1": {
-        "value": "15B",
-        "label": "En Yüksek Eş Zamanlı Kullanıcı (Demo)"
+        "value": "242K+",
+        "label": "Toplam Ziyaret"
       },
       "stat2": {
-        "value": "6",
-        "label": "İşbirliği Oyuncusu"
+        "value": "473",
+        "label": "Çevrimiçi Oyuncu"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo Yayın Tarihi"
+        "value": "4",
+        "label": "Aktif Kod"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Platform"
+        "value": "V1.75",
+        "label": "Son Güncelleme"
       }
     }
   },
@@ -819,27 +819,25 @@
     ]
   },
   "cta": {
-    "title": "Soygun Yapmaya Hazır mısınız?",
-    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Lucid Blocks topluluğuna katılın!",
-    "joinCommunity": "Discord'a Katıl",
-    "joinGame": "Steam'de Demo Al"
+    "title": "Sonsuz Merdiveni Tırmanmaya Hazır mısın?",
+    "description": "En yeni kodları kullan, aura atışlarını ve yeniden doğuşu ustalaştır ve Roblox'taki Aura Monster Simulator'da zirveye tırmanmaya başla.",
+    "joinCommunity": "Oynanışları İzle",
+    "joinGame": "Roblox'ta Oyna"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocks gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Aura Monster Simulator kodları, auralar, Elmaslar, yeniden doğuş, unvanlar, kontroller ve tırmanma rehberleri için eksiksiz kaynak merkeziniz (Roblox).",
     "resources": "Kaynaklar",
     "community": "Topluluk",
     "legal": "Yasal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Topluluğu",
-    "steamStore": "Steam Mağazası",
     "about": "Hakkında",
     "privacy": "Gizlilik Politikası",
     "terms": "Hizmet Şartları",
     "copyrightNotice": "Telif Hakkı",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocks geliştiricileriyle bağlantılı değildir.",
-    "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
+    "copyright": "© 2026 Aura Monster Simulator Wiki. Aura Monster Simulator geliştiricileri veya Roblox Corporation ile resmi bir bağlantısı yoktur.",
+    "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi.",
+    "roblox": "Roblox Oyun Sayfası",
+    "youtube": "YouTube'da Oynanış"
   },
   "pages": {
     "guides": {

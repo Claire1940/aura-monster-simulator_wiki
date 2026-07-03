@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Aura Monster Simulator Wiki - Códigos, Auras y Renacimiento",
+      "description": "Aura Monster Simulator Wiki cubre códigos activos, mejoras de aura, Gemas, renacimiento, controles, escaleras, peligros, títulos y consejos para principiantes para jugadores de Roblox.",
+      "keywords": "Aura Monster Simulator, Roblox, códigos, auras, gemas, renacimiento, títulos, controles, escaleras, obby, simulador",
+      "ogTitle": "Aura Monster Simulator Wiki - Códigos, Auras y Renacimiento",
+      "ogDescription": "Aura Monster Simulator Wiki cubre códigos activos, mejoras de aura, Gemas, renacimiento, controles, escaleras, peligros, títulos y consejos para principiantes para jugadores de Roblox.",
+      "twitterTitle": "Aura Monster Simulator Wiki - Códigos, Auras y Renacimiento",
+      "twitterDescription": "Aura Monster Simulator Wiki cubre códigos activos, mejoras de aura, Gemas, renacimiento, controles, escaleras, peligros, títulos y consejos para principiantes para jugadores de Roblox."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Artículos próximamente"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Simulador infinito de escalada de Aura",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Sube una escalera infinita, recolecta Aura, esquiva peligros, usa Gemas para tiradas de aura, desbloquea títulos, renace y mejora tus habilidades de escalada en este simulador obby de Roblox.",
+    "getFreeCodesCTA": "Códigos Gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "242K+",
+        "label": "Visitas Totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "473",
+        "label": "Jugadores en Línea"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "4",
+        "label": "Códigos Activos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "V1.75",
+        "label": "Última Actualización"
       }
     }
   },
@@ -785,27 +785,25 @@
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para subir la escalera infinita?",
+    "description": "Canjea los últimos códigos, domina tus tiradas de aura y renacimiento, y comienza a escalar hacia la cima en Aura Monster Simulator en Roblox.",
+    "joinCommunity": "Ver Gameplays",
+    "joinGame": "Jugar en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Tu centro de recursos completo para códigos, auras, Gemas, renacimiento, títulos, controles y guías de escalada de Aura Monster Simulator en Roblox.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
     "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyright": "© 2026 Aura Monster Simulator Wiki. No afiliado a los desarrolladores de Aura Monster Simulator ni a Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans.",
+    "roblox": "Página del juego en Roblox",
+    "youtube": "Gameplays en YouTube"
   },
   "pages": {
     "guides": {

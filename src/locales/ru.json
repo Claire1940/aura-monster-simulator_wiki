@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "description": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "keywords": "Lucid Blocks, вики Lucid Blocks, крафт, биомы, достижения, выживание, Steam",
-      "ogTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "ogDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "twitterTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "twitterDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях и советы по выживанию в сюрреалистичной воксельной песочнице на Steam."
+      "title": "Aura Monster Simulator Wiki - Коды, Ауры и Перерождение",
+      "description": "Aura Monster Simulator Wiki — активные коды, улучшения ауры, Самоцветы, перерождение, управление, лестницы, опасности, титулы и советы для новичков Roblox.",
+      "keywords": "Aura Monster Simulator, Roblox, коды, ауры, самоцветы, перерождение, титулы, управление, лестницы, obby, симулятор",
+      "ogTitle": "Aura Monster Simulator Wiki - Коды, Ауры и Перерождение",
+      "ogDescription": "Aura Monster Simulator Wiki — активные коды, улучшения ауры, Самоцветы, перерождение, управление, лестницы, опасности, титулы и советы для новичков Roblox.",
+      "twitterTitle": "Aura Monster Simulator Wiki - Коды, Ауры и Перерождение",
+      "twitterDescription": "Aura Monster Simulator Wiki — активные коды, улучшения ауры, Самоцветы, перерождение, управление, лестницы, опасности, титулы и советы для новичков Roblox."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Статьи скоро появятся"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Воксельная песочница на выживание",
-    "title": "Lucid Blocks Вики",
-    "description": "Исследуйте сказочные биомы, объединяйте предметы с помощью Apotheosis, свободно стройте и выживайте среди странных существ в этой сюрреалистичной песочнице с открытым миром на Steam.",
-    "getFreeCodesCTA": "Изучить руководство по крафту",
-    "playOnSteamCTA": "Играть на Steam",
+    "badge": "Бесконечный симулятор восхождения за Ауру",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Поднимайтесь по бесконечной лестнице, собирайте Ауру, уклоняйтесь от опасностей, используйте Самоцветы для роллов ауры, открывайте титулы, перерождайтесь и улучшайте навыки восхождения в этом обби-симуляторе Roblox.",
+    "getFreeCodesCTA": "Бесплатные коды",
+    "playOnRobloxCTA": "Играть в Roblox",
     "stats": {
       "stat1": {
-        "value": "1 325",
-        "label": "Игроков онлайн"
+        "value": "242K+",
+        "label": "Всего визитов"
       },
       "stat2": {
-        "value": "1 986",
-        "label": "Пиковый онлайн"
+        "value": "473",
+        "label": "Игроков онлайн"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Положительных отзывов"
+        "value": "4",
+        "label": "Активных кода"
       },
       "stat4": {
-        "value": "12 марта 2026",
-        "label": "Дата выхода"
+        "value": "V1.75",
+        "label": "Последнее обновление"
       }
     }
   },
@@ -181,27 +181,25 @@
     ]
   },
   "cta": {
-    "title": "Готовы исследовать Lucid Blocks?",
-    "description": "Присоединяйтесь к сообществу Lucid Blocks в Discord, где вас ждут руководства, обновления и обсуждения!",
-    "joinCommunity": "Присоединиться к Discord",
-    "joinGame": "Играть на Steam"
+    "title": "Готовы покорять бесконечную лестницу?",
+    "description": "Активируйте свежие коды, освойте роллы ауры и перерождение, и начинайте карабкаться к вершине в Aura Monster Simulator в Roblox.",
+    "joinCommunity": "Смотреть геймплей",
+    "joinGame": "Играть в Roblox"
   },
   "footer": {
-    "title": "Вики Lucid Blocks",
-    "description": "Ваш полноценный ресурсный центр по крафту, биомам, существам, достижениям и руководствам по выживанию в Lucid Blocks.",
+    "title": "Aura Monster Simulator Wiki",
+    "description": "Ваш полный ресурсный центр по кодам, аурам, Самоцветам, перерождению, титулам, управлению и гайдам по восхождениям Aura Monster Simulator в Roblox.",
     "resources": "Ресурсы",
     "community": "Сообщество",
     "legal": "Юридическая информация",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Сообщество Steam",
-    "steamStore": "Магазин Steam",
     "about": "О проекте",
     "privacy": "Политика конфиденциальности",
     "terms": "Условия использования",
     "copyrightNotice": "Авторское право",
-    "copyright": "© 2026 Вики Lucid Blocks. Не связано с разработчиками Lucid Blocks.",
-    "disclaimer": "Неофициальный фанатский ресурс."
+    "copyright": "© 2026 Aura Monster Simulator Wiki. Не аффилировано с разработчиками Aura Monster Simulator или Roblox Corporation.",
+    "disclaimer": "Неофициальный фанатский ресурс.",
+    "roblox": "Страница игры в Roblox",
+    "youtube": "Геймплей на YouTube"
   },
   "pages": {
     "guides": {
